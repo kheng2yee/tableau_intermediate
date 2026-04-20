@@ -1,0 +1,351 @@
+Order ID,First Name,Last Name,Email,Region,Sales Channel,Product Category,Product Name,Sales_Q1,Sales_Q2,Sales_Q3,Sales_Q4
+ORD0,john,tan ,john0@email.com,N/A,Social Media,Furniture,Desk|White|Large,485,399,1103,1857
+ORD1,michael,Smith,michael1@email.com,,store,electronics,Laptop|Grey|512GB,158,190,279,188
+ORD0,SARAH,tan ,sarah2@email.com,South,STORE,Electronics,Chair / Brown / Standard,508,594,1375,1808
+ORD3,ALICE,Smith,alice3@email.com,North,ONLINE,Electronics,Chair / Brown / Standard,502,390,952,1251
+ORD4,bob,Lim,bob4@email.com,East,online,ELECTRONICS ,Chair / Brown / Standard,928,50,333,1072
+ORD1,Jane,Wong,jane5@email.com,,online,Home Furniture,Chair / Brown / Standard,276,896,174,944
+ORD6,SARAH,LEE,sarah6@email.com,North,ONLINE,furniture,Phone - Black - 128GB,478,99,1188,216
+ORD2,bob,LEE,bob7@email.com,,Store ,electronics,Tablet - Silver - 64GB,166,879,858,327
+ORD8,Jane,Smith,jane8@email.com,South,Social Media,ELECTRONICS ,Desk|White|Large,984,854,198,1620
+ORD3,michael,Lim,michael9@email.com,East,Online ,Home Furniture,Laptop|Grey|512GB,52,488,576,1747
+ORD10,michael,tan ,michael10@email.com,,Online ,furniture,Phone - Black - 128GB,784,980,1498,242
+ORD3,Jane,Smith,jane11@email.com,West,STORE,Electronics,Laptop|Grey|512GB,514,665,61,1555
+ORD4,SARAH,tan ,sarah12@email.com,North,online,Furniture,Chair / Brown / Standard,542,973,473,598
+ORD4,john,LEE,john13@email.com,West,ONLINE,Electronics,Desk|White|Large,857,496,1431,701
+ORD4,SARAH,Smith,sarah14@email.com,N/A,store,ELECTRONICS ,Desk|White|Large,763,391,863,1332
+ORD15,SARAH,Smith,sarah15@email.com,N/A,ONLINE,furniture,Tablet - Silver - 64GB,112,162,583,1835
+ORD16,michael,doe,michael16@email.com,North,Store ,Furniture,Chair / Brown / Standard,195,849,1266,1403
+ORD17,bob,doe,bob17@email.com,N/A,store,ELECTRONICS ,Desk|White|Large,508,381,987,1170
+ORD18,SARAH,tan ,sarah18@email.com,,online,Electronic,Desk|White|Large,502,1099,362,887
+ORD19,john,Smith,john19@email.com,,STORE,Home Furniture,Desk|White|Large,877,815,1377,505
+ORD20,john,Smith,john20@email.com,North,STORE,ELECTRONICS ,Phone - Black - 128GB,727,820,813,335
+ORD21,bob,doe,bob21@email.com,East,Store ,ELECTRONICS ,Chair / Brown / Standard,250,284,918,1490
+ORD22,SARAH,Lim,sarah22@email.com,,online,furniture,Chair / Brown / Standard,444,704,566,1672
+ORD7,SARAH,tan ,sarah23@email.com,East,Store ,ELECTRONICS ,Phone - Black - 128GB,542,512,1164,1578
+ORD8,michael,Wong,michael24@email.com,East,Online ,FURN,Chair / Brown / Standard,353,1028,1061,1572
+ORD8,bob,Smith,bob25@email.com,N/A,store,electronics,Chair / Brown / Standard,441,566,913,927
+ORD8,michael,Lim,michael26@email.com,,Store ,Furn ,Laptop|Grey|512GB,157,755,385,1469
+ORD9,michael,Wong,michael27@email.com,,online,FURN,Desk|White|Large,532,95,1107,899
+ORD28,Jane,tan ,jane28@email.com,West,STORE,Furn ,Laptop|Grey|512GB,881,457,776,430
+ORD29,michael,tan ,michael29@email.com,,Social Media,ELECTRONICS ,Tablet - Silver - 64GB,502,1181,470,1631
+ORD10,bob,Smith,bob30@email.com,,STORE,Furn ,Laptop|Grey|512GB,350,454,1350,384
+ORD10,SARAH,tan ,sarah31@email.com,North,STORE,FURN,Tablet - Silver - 64GB,944,322,950,108
+ORD10,ALICE,LEE,alice32@email.com,North,Store ,ELEC,Desk|White|Large,131,1087,394,1120
+ORD33,michael,LEE,michael33@email.com,N/A,STORE,furniture,Tablet - Silver - 64GB,244,239,258,1934
+ORD11,Jane,Lim,jane34@email.com,West,online,FURN,Tablet - Silver - 64GB,293,243,275,462
+ORD11,bob,tan ,bob35@email.com,West,Online ,Home Furniture,Desk|White|Large,890,428,404,1472
+ORD12,Jane,tan ,jane36@email.com,East,ONLINE,electronics,Tablet - Silver - 64GB,537,602,1006,1511
+ORD37,Jane,LEE,jane37@email.com,South,social media,ELEC,Chair / Brown / Standard,913,521,361,1063
+ORD12,SARAH,tan ,sarah38@email.com,,STORE,FURN,Chair / Brown / Standard,508,723,75,378
+ORD39,john,LEE,john39@email.com,,Social Media,ELEC,Laptop|Grey|512GB,559,949,596,1172
+ORD13,michael,Smith,michael40@email.com,N/A,Social Media,Electronic,Laptop|Grey|512GB,778,701,404,728
+ORD13,ALICE,LEE,alice41@email.com,,store,ELECTRONICS ,Phone - Black - 128GB,653,144,373,1103
+ORD14,ALICE,doe,alice42@email.com,N/A,store,Furniture,Laptop|Grey|512GB,866,228,1383,1447
+ORD14,Jane,doe,jane43@email.com,North,ONLINE,Home Furniture,Tablet - Silver - 64GB,160,708,1330,1322
+ORD14,ALICE,LEE,alice44@email.com,East,social media,Home Furniture,Phone - Black - 128GB,298,775,575,244
+ORD45,bob,LEE,bob45@email.com,East,Online ,ELEC,Phone - Black - 128GB,509,780,1360,497
+ORD46,bob,Smith,bob46@email.com,,Social Media,Furn ,Phone - Black - 128GB,916,859,112,1423
+ORD47,john,Smith,john47@email.com,East,social media,Home Furniture,Phone - Black - 128GB,590,1090,434,257
+ORD16,michael,tan ,michael48@email.com,North,ONLINE,Electronics,Chair / Brown / Standard,644,288,1405,884
+ORD49,bob,LEE,bob49@email.com,West,Store ,Home Furniture,Laptop|Grey|512GB,60,484,304,737
+ORD50,SARAH,tan ,sarah50@email.com,South,Store ,ELECTRONICS ,Tablet - Silver - 64GB,888,867,1060,503
+ORD51,john,Wong,john51@email.com,West,online,ELECTRONICS ,Tablet - Silver - 64GB,992,990,629,1481
+ORD17,SARAH,Wong,sarah52@email.com,West,Store ,ELECTRONICS ,Tablet - Silver - 64GB,399,495,389,1090
+ORD17,bob,doe,bob53@email.com,East,Social Media,Home Furniture,Tablet - Silver - 64GB,166,691,398,274
+ORD18,ALICE,doe,alice54@email.com,South,social media,ELEC,Laptop|Grey|512GB,507,867,213,1335
+ORD18,bob,tan ,bob55@email.com,N/A,Online ,furniture,Laptop|Grey|512GB,843,350,1198,1829
+ORD56,john,Lim,john56@email.com,,Social Media,FURN,Phone - Black - 128GB,615,721,1105,1342
+ORD19,bob,tan ,bob57@email.com,N/A,Social Media,electronics,Phone - Black - 128GB,514,1080,477,1448
+ORD19,SARAH,doe,sarah58@email.com,,Online ,ELECTRONICS ,Phone - Black - 128GB,406,1097,781,1952
+ORD19,michael,Wong,michael59@email.com,,Online ,ELECTRONICS ,Tablet - Silver - 64GB,179,674,364,363
+ORD60,Jane,tan ,jane60@email.com,East,Social Media,electronics,Tablet - Silver - 64GB,84,817,505,1901
+ORD20,john,Smith,john61@email.com,South,STORE,Furn ,Tablet - Silver - 64GB,908,1051,149,716
+ORD62,Jane,tan ,jane62@email.com,East,ONLINE,electronics,Laptop|Grey|512GB,908,962,357,617
+ORD21,Jane,Lim,jane63@email.com,West,online,electronics,Chair / Brown / Standard,902,100,459,1338
+ORD21,Jane,tan ,jane64@email.com,South,STORE,furniture,Desk|White|Large,260,378,1265,660
+ORD21,john,Wong,john65@email.com,N/A,Social Media,Furn ,Laptop|Grey|512GB,465,505,956,1638
+ORD66,ALICE,tan ,alice66@email.com,,Social Media,Electronic,Phone - Black - 128GB,935,860,1457,680
+ORD22,michael,Lim,michael67@email.com,,STORE,Furn ,Tablet - Silver - 64GB,941,286,53,665
+ORD68,ALICE,LEE,alice68@email.com,North,STORE,ELEC,Chair / Brown / Standard,654,418,639,995
+ORD69,bob,Smith,bob69@email.com,,Social Media,Electronic,Chair / Brown / Standard,157,89,679,872
+ORD70,john,Smith,john70@email.com,,online,Electronics,Tablet - Silver - 64GB,268,763,1335,1371
+ORD71,michael,doe,michael71@email.com,N/A,Social Media,furniture,Tablet - Silver - 64GB,147,594,942,774
+ORD24,bob,doe,bob72@email.com,N/A,Online ,Home Furniture,Desk|White|Large,623,690,632,513
+ORD24,SARAH,Smith,sarah73@email.com,N/A,ONLINE,Electronic,Phone - Black - 128GB,937,192,273,211
+ORD74,SARAH,Wong,sarah74@email.com,East,store,ELECTRONICS ,Desk|White|Large,963,715,442,816
+ORD25,SARAH,Smith,sarah75@email.com,East,Online ,Home Furniture,Desk|White|Large,504,569,718,373
+ORD25,bob,Wong,bob76@email.com,South,Store ,ELEC,Desk|White|Large,352,1187,373,553
+ORD25,SARAH,Wong,sarah77@email.com,,Social Media,furniture,Phone - Black - 128GB,664,378,566,571
+ORD26,Jane,Wong,jane78@email.com,North,Social Media,FURN,Phone - Black - 128GB,506,873,1311,1859
+ORD79,bob,Smith,bob79@email.com,,online,Electronic,Tablet - Silver - 64GB,397,1106,1365,1708
+ORD26,SARAH,tan ,sarah80@email.com,West,Store ,Home Furniture,Tablet - Silver - 64GB,237,1017,1331,1247
+ORD27,Jane,Wong,jane81@email.com,East,STORE,Furn ,Tablet - Silver - 64GB,903,631,1473,363
+ORD82,Jane,Wong,jane82@email.com,,online,furniture,Phone - Black - 128GB,826,1183,491,1450
+ORD27,john,Wong,john83@email.com,North,ONLINE,Home Furniture,Desk|White|Large,540,790,54,806
+ORD84,ALICE,doe,alice84@email.com,,STORE,furniture,Desk|White|Large,383,419,1253,321
+ORD28,john,Wong,john85@email.com,East,STORE,Electronic,Laptop|Grey|512GB,181,1007,379,1200
+ORD86,ALICE,Lim,alice86@email.com,N/A,ONLINE,Furn ,Phone - Black - 128GB,77,826,416,998
+ORD29,john,Lim,john87@email.com,,ONLINE,ELECTRONICS ,Laptop|Grey|512GB,784,293,1199,1344
+ORD88,ALICE,tan ,alice88@email.com,,Store ,ELEC,Laptop|Grey|512GB,576,424,1249,593
+ORD29,Jane,doe,jane89@email.com,North,Store ,Furn ,Tablet - Silver - 64GB,841,273,76,631
+ORD30,Jane,Smith,jane90@email.com,North,online,Electronic,Desk|White|Large,755,320,641,1422
+ORD30,SARAH,doe,sarah91@email.com,,Social Media,electronics,Chair / Brown / Standard,134,512,1050,975
+ORD92,ALICE,Smith,alice92@email.com,,STORE,Home Furniture,Chair / Brown / Standard,700,820,698,1638
+ORD93,ALICE,LEE,alice93@email.com,East,Store ,Home Furniture,Laptop|Grey|512GB,844,868,366,1543
+ORD31,michael,Smith,michael94@email.com,North,Store ,ELECTRONICS ,Desk|White|Large,773,128,1262,239
+ORD31,john,doe,john95@email.com,South,STORE,electronics,Phone - Black - 128GB,979,439,647,1105
+ORD96,michael,LEE,michael96@email.com,East,ONLINE,ELEC,Tablet - Silver - 64GB,273,712,1320,462
+ORD97,bob,Smith,bob97@email.com,N/A,Store ,Electronic,Chair / Brown / Standard,446,854,437,596
+ORD98,Jane,LEE,jane98@email.com,,online,Furn ,Laptop|Grey|512GB,930,606,70,873
+ORD99,Jane,Lim,jane99@email.com,South,Online ,ELECTRONICS ,Chair / Brown / Standard,940,680,1175,261
+ORD100,bob,Lim,bob100@email.com,,ONLINE,FURN,Phone - Black - 128GB,901,263,701,1598
+ORD33,michael,Lim,michael101@email.com,East,Store ,furniture,Tablet - Silver - 64GB,725,1022,250,1503
+ORD34,ALICE,LEE,alice102@email.com,East,Store ,ELECTRONICS ,Chair / Brown / Standard,357,1022,128,1103
+ORD34,john,Lim,john103@email.com,West,social media,ELEC,Chair / Brown / Standard,988,219,695,741
+ORD34,Jane,Lim,jane104@email.com,N/A,Store ,Electronics,Tablet - Silver - 64GB,78,1086,233,1175
+ORD105,SARAH,Wong,sarah105@email.com,N/A,Social Media,Electronic,Laptop|Grey|512GB,754,890,866,581
+ORD35,ALICE,Wong,alice106@email.com,N/A,STORE,ELEC,Chair / Brown / Standard,293,754,823,566
+ORD107,michael,Wong,michael107@email.com,North,STORE,Electronic,Phone - Black - 128GB,996,52,851,233
+ORD108,SARAH,LEE,sarah108@email.com,,online,Electronics,Tablet - Silver - 64GB,550,503,792,1327
+ORD36,bob,LEE,bob109@email.com,West,STORE,Home Furniture,Laptop|Grey|512GB,602,189,1069,1222
+ORD110,michael,Lim,michael110@email.com,East,online,Furniture,Phone - Black - 128GB,986,880,1080,578
+ORD37,ALICE,Lim,alice111@email.com,East,online,Furniture,Chair / Brown / Standard,260,586,781,1005
+ORD112,bob,tan ,bob112@email.com,N/A,Social Media,FURN,Phone - Black - 128GB,831,1102,784,1071
+ORD37,john,LEE,john113@email.com,North,social media,electronics,Laptop|Grey|512GB,325,441,1255,67
+ORD38,bob,tan ,bob114@email.com,West,Store ,ELEC,Desk|White|Large,892,741,1271,525
+ORD115,michael,Smith,michael115@email.com,,ONLINE,Electronics,Tablet - Silver - 64GB,647,207,266,1571
+ORD116,bob,Smith,bob116@email.com,East,Store ,Electronics,Phone - Black - 128GB,131,995,1166,1544
+ORD117,michael,doe,michael117@email.com,West,store,ELECTRONICS ,Chair / Brown / Standard,926,756,1188,1518
+ORD118,michael,Wong,michael118@email.com,North,Store ,ELECTRONICS ,Phone - Black - 128GB,308,567,539,779
+ORD39,michael,Lim,michael119@email.com,,store,furniture,Chair / Brown / Standard,648,1187,788,697
+ORD40,SARAH,Smith,sarah120@email.com,N/A,social media,ELECTRONICS ,Tablet - Silver - 64GB,725,651,298,815
+ORD121,SARAH,Lim,sarah121@email.com,West,STORE,FURN,Tablet - Silver - 64GB,52,260,1088,1970
+ORD40,ALICE,LEE,alice122@email.com,,online,Electronics,Phone - Black - 128GB,524,235,1291,250
+ORD123,john,Smith,john123@email.com,N/A,ONLINE,furniture,Desk|White|Large,528,518,942,829
+ORD41,bob,doe,bob124@email.com,West,store,furniture,Desk|White|Large,730,1101,1376,980
+ORD41,michael,LEE,michael125@email.com,South,ONLINE,furniture,Phone - Black - 128GB,258,852,1101,638
+ORD42,Jane,Lim,jane126@email.com,N/A,store,Home Furniture,Chair / Brown / Standard,432,525,730,1694
+ORD42,bob,doe,bob127@email.com,South,Social Media,FURN,Tablet - Silver - 64GB,732,119,300,1146
+ORD42,michael,Lim,michael128@email.com,South,Social Media,electronics,Tablet - Silver - 64GB,741,205,795,1799
+ORD129,SARAH,Lim,sarah129@email.com,N/A,online,Furniture,Tablet - Silver - 64GB,460,990,819,1675
+ORD130,michael,LEE,michael130@email.com,North,Online ,electronics,Chair / Brown / Standard,291,456,474,1919
+ORD43,ALICE,Wong,alice131@email.com,South,online,electronics,Tablet - Silver - 64GB,276,359,576,1151
+ORD132,ALICE,Lim,alice132@email.com,North,online,Furniture,Desk|White|Large,808,825,649,195
+ORD44,bob,LEE,bob133@email.com,N/A,social media,Electronic,Laptop|Grey|512GB,375,283,847,246
+ORD134,john,doe,john134@email.com,North,Store ,FURN,Chair / Brown / Standard,801,220,1151,1554
+ORD45,bob,tan ,bob135@email.com,North,ONLINE,ELECTRONICS ,Desk|White|Large,115,288,185,1111
+ORD45,michael,Smith,michael136@email.com,,STORE,FURN,Desk|White|Large,752,136,1034,1559
+ORD137,Jane,doe,jane137@email.com,,online,ELEC,Chair / Brown / Standard,979,804,1224,1157
+ORD46,john,doe,john138@email.com,,social media,Electronics,Phone - Black - 128GB,535,410,1468,1500
+ORD139,john,Lim,john139@email.com,East,Online ,ELECTRONICS ,Laptop|Grey|512GB,123,956,796,241
+ORD46,bob,Wong,bob140@email.com,N/A,Online ,ELEC,Phone - Black - 128GB,230,337,627,1252
+ORD141,ALICE,Lim,alice141@email.com,,STORE,Electronics,Tablet - Silver - 64GB,981,1067,1366,232
+ORD47,ALICE,doe,alice142@email.com,North,social media,Furn ,Laptop|Grey|512GB,472,129,1289,1423
+ORD143,michael,Lim,michael143@email.com,,online,furniture,Laptop|Grey|512GB,152,192,298,1792
+ORD48,bob,Wong,bob144@email.com,N/A,Store ,furniture,Phone - Black - 128GB,391,426,1271,1291
+ORD48,michael,tan ,michael145@email.com,,STORE,ELEC,Chair / Brown / Standard,524,692,343,365
+ORD146,michael,LEE,michael146@email.com,,Social Media,Electronic,Laptop|Grey|512GB,322,921,1436,92
+ORD49,ALICE,tan ,alice147@email.com,East,Social Media,furniture,Laptop|Grey|512GB,218,95,223,1624
+ORD49,Jane,tan ,jane148@email.com,South,online,ELECTRONICS ,Phone - Black - 128GB,338,838,1500,1218
+ORD149,michael,tan ,michael149@email.com,N/A,Store ,FURN,Laptop|Grey|512GB,693,1193,990,1592
+ORD150,bob,Wong,bob150@email.com,West,ONLINE,electronics,Phone - Black - 128GB,345,360,607,1670
+ORD50,john,Lim,john151@email.com,North,social media,ELEC,Tablet - Silver - 64GB,98,643,563,411
+ORD152,john,LEE,john152@email.com,South,online,Electronic,Chair / Brown / Standard,370,615,1146,886
+ORD51,bob,LEE,bob153@email.com,,Online ,FURN,Chair / Brown / Standard,639,567,492,1519
+ORD154,john,Wong,john154@email.com,,Social Media,furniture,Phone - Black - 128GB,355,322,1147,727
+ORD51,michael,Smith,michael155@email.com,West,Social Media,Electronic,Tablet - Silver - 64GB,200,120,736,951
+ORD156,michael,Smith,michael156@email.com,West,store,Home Furniture,Phone - Black - 128GB,293,764,314,739
+ORD52,SARAH,LEE,sarah157@email.com,West,ONLINE,Electronics,Tablet - Silver - 64GB,961,640,665,437
+ORD158,SARAH,Wong,sarah158@email.com,South,social media,ELECTRONICS ,Tablet - Silver - 64GB,977,690,1378,1976
+ORD159,michael,doe,michael159@email.com,West,Store ,Furniture,Tablet - Silver - 64GB,240,318,1403,629
+ORD160,bob,Wong,bob160@email.com,South,ONLINE,Furniture,Phone - Black - 128GB,169,324,1200,519
+ORD53,Jane,tan ,jane161@email.com,N/A,Social Media,FURN,Laptop|Grey|512GB,756,742,412,892
+ORD54,SARAH,Wong,sarah162@email.com,South,STORE,Furn ,Chair / Brown / Standard,198,313,1467,1008
+ORD54,michael,doe,michael163@email.com,,online,FURN,Chair / Brown / Standard,717,1074,828,139
+ORD54,ALICE,Smith,alice164@email.com,West,STORE,Electronics,Phone - Black - 128GB,489,625,468,1105
+ORD165,ALICE,doe,alice165@email.com,North,Social Media,furniture,Chair / Brown / Standard,298,1157,1265,1573
+ORD55,ALICE,Smith,alice166@email.com,South,Store ,Electronic,Laptop|Grey|512GB,244,610,281,229
+ORD55,SARAH,LEE,sarah167@email.com,,online,electronics,Phone - Black - 128GB,296,241,290,540
+ORD56,bob,doe,bob168@email.com,West,online,Furniture,Tablet - Silver - 64GB,60,1027,1075,1506
+ORD56,bob,Lim,bob169@email.com,North,social media,ELEC,Tablet - Silver - 64GB,806,696,794,1119
+ORD56,ALICE,LEE,alice170@email.com,North,social media,ELEC,Desk|White|Large,847,1014,998,1582
+ORD171,bob,Wong,bob171@email.com,West,Social Media,furniture,Laptop|Grey|512GB,749,1035,56,766
+ORD172,SARAH,Smith,sarah172@email.com,N/A,social media,Electronic,Phone - Black - 128GB,95,675,797,1240
+ORD57,Jane,tan ,jane173@email.com,South,Store ,FURN,Chair / Brown / Standard,940,831,467,291
+ORD58,SARAH,LEE,sarah174@email.com,North,social media,Furn ,Tablet - Silver - 64GB,701,1014,1112,1492
+ORD58,SARAH,tan ,sarah175@email.com,,ONLINE,ELECTRONICS ,Tablet - Silver - 64GB,833,685,1049,1791
+ORD176,john,Smith,john176@email.com,North,Social Media,electronics,Desk|White|Large,670,415,1331,1045
+ORD59,john,Lim,john177@email.com,West,Store ,Home Furniture,Desk|White|Large,861,307,1339,293
+ORD59,Jane,Smith,jane178@email.com,East,Social Media,FURN,Tablet - Silver - 64GB,137,1196,661,1028
+ORD59,bob,LEE,bob179@email.com,,Online ,Electronic,Laptop|Grey|512GB,986,575,1279,541
+ORD180,michael,Smith,michael180@email.com,N/A,store,Electronics,Desk|White|Large,191,436,930,790
+ORD181,john,Smith,john181@email.com,West,Online ,Electronics,Tablet - Silver - 64GB,329,857,116,1741
+ORD60,michael,doe,michael182@email.com,,STORE,ELECTRONICS ,Phone - Black - 128GB,128,1129,202,1383
+ORD183,SARAH,Smith,sarah183@email.com,East,Online ,ELEC,Laptop|Grey|512GB,875,661,582,495
+ORD61,bob,doe,bob184@email.com,North,online,Home Furniture,Desk|White|Large,224,721,919,55
+ORD61,bob,LEE,bob185@email.com,N/A,STORE,Home Furniture,Desk|White|Large,269,346,973,822
+ORD62,bob,tan ,bob186@email.com,,STORE,ELEC,Tablet - Silver - 64GB,976,914,1442,202
+ORD62,john,doe,john187@email.com,North,store,FURN,Tablet - Silver - 64GB,601,1114,578,978
+ORD188,SARAH,Lim,sarah188@email.com,North,online,ELEC,Laptop|Grey|512GB,412,328,1170,264
+ORD189,SARAH,LEE,sarah189@email.com,N/A,social media,Electronics,Laptop|Grey|512GB,840,283,427,1401
+ORD190,john,Wong,john190@email.com,,ONLINE,Home Furniture,Phone - Black - 128GB,430,1019,1171,1217
+ORD191,bob,Smith,bob191@email.com,North,store,ELECTRONICS ,Desk|White|Large,158,437,130,709
+ORD192,ALICE,Smith,alice192@email.com,South,Online ,Furn ,Chair / Brown / Standard,69,1033,1352,1988
+ORD64,bob,LEE,bob193@email.com,,Store ,Furn ,Phone - Black - 128GB,943,882,1265,434
+ORD64,michael,Lim,michael194@email.com,N/A,Online ,Furniture,Chair / Brown / Standard,845,95,908,1320
+ORD65,SARAH,LEE,sarah195@email.com,,Online ,Furn ,Laptop|Grey|512GB,585,492,1421,436
+ORD65,john,tan ,john196@email.com,South,online,Electronic,Phone - Black - 128GB,173,719,381,1614
+ORD65,john,Lim,john197@email.com,,online,FURN,Phone - Black - 128GB,360,490,445,1587
+ORD66,SARAH,Wong,sarah198@email.com,North,ONLINE,ELECTRONICS ,Chair / Brown / Standard,925,1026,945,1465
+ORD199,ALICE,Wong,alice199@email.com,East,Online ,ELECTRONICS ,Desk|White|Large,891,253,647,773
+ORD66,SARAH,Smith,sarah200@email.com,N/A,ONLINE,Electronics,Phone - Black - 128GB,530,628,440,650
+ORD201,SARAH,tan ,sarah201@email.com,,Store ,Electronic,Desk|White|Large,756,93,858,108
+ORD202,SARAH,LEE,sarah202@email.com,,Social Media,electronics,Phone - Black - 128GB,910,514,493,1954
+ORD203,Jane,Smith,jane203@email.com,South,social media,electronics,Desk|White|Large,213,630,1004,1043
+ORD68,SARAH,Smith,sarah204@email.com,,online,Electronics,Phone - Black - 128GB,782,250,538,869
+ORD68,michael,Smith,michael205@email.com,North,Social Media,electronics,Desk|White|Large,730,147,1048,149
+ORD206,SARAH,Wong,sarah206@email.com,N/A,Online ,Furniture,Desk|White|Large,509,981,1100,233
+ORD69,michael,Wong,michael207@email.com,North,social media,ELEC,Phone - Black - 128GB,649,687,993,1203
+ORD69,michael,Wong,michael208@email.com,East,Social Media,FURN,Chair / Brown / Standard,144,721,1180,1947
+ORD209,Jane,Smith,jane209@email.com,,store,ELEC,Tablet - Silver - 64GB,444,933,196,1371
+ORD70,michael,Smith,michael210@email.com,,Online ,Furniture,Tablet - Silver - 64GB,826,247,987,1920
+ORD211,michael,Smith,michael211@email.com,North,Online ,FURN,Chair / Brown / Standard,749,539,228,1219
+ORD212,john,LEE,john212@email.com,West,social media,furniture,Laptop|Grey|512GB,282,920,1231,955
+ORD213,michael,Wong,michael213@email.com,,social media,Furniture,Phone - Black - 128GB,162,1029,719,1926
+ORD71,john,doe,john214@email.com,,Store ,ELEC,Phone - Black - 128GB,746,833,1087,1012
+ORD215,SARAH,tan ,sarah215@email.com,N/A,social media,ELEC,Tablet - Silver - 64GB,118,575,1411,1355
+ORD216,SARAH,Smith,sarah216@email.com,South,Store ,Electronic,Phone - Black - 128GB,221,297,297,1048
+ORD217,SARAH,tan ,sarah217@email.com,West,social media,Furn ,Chair / Brown / Standard,65,1088,349,1337
+ORD72,bob,LEE,bob218@email.com,,Store ,furniture,Phone - Black - 128GB,121,870,229,1258
+ORD73,bob,doe,bob219@email.com,,store,ELECTRONICS ,Desk|White|Large,963,80,624,1431
+ORD220,SARAH,LEE,sarah220@email.com,N/A,Online ,ELEC,Tablet - Silver - 64GB,495,272,1012,766
+ORD73,ALICE,tan ,alice221@email.com,,Store ,Furniture,Laptop|Grey|512GB,468,831,1288,1795
+ORD74,bob,Lim,bob222@email.com,East,store,electronics,Desk|White|Large,119,1136,173,445
+ORD223,bob,Lim,bob223@email.com,North,social media,furniture,Desk|White|Large,947,646,923,1802
+ORD224,john,LEE,john224@email.com,East,social media,Furniture,Tablet - Silver - 64GB,892,1063,382,1404
+ORD75,john,Wong,john225@email.com,North,Store ,FURN,Desk|White|Large,536,1121,92,179
+ORD75,john,doe,john226@email.com,North,Store ,Furn ,Tablet - Silver - 64GB,383,341,930,936
+ORD227,john,Lim,john227@email.com,East,Store ,ELEC,Desk|White|Large,473,1150,1130,138
+ORD228,SARAH,Wong,sarah228@email.com,,Online ,FURN,Laptop|Grey|512GB,845,937,523,1901
+ORD76,Jane,Smith,jane229@email.com,West,STORE,ELEC,Chair / Brown / Standard,192,1184,429,1153
+ORD76,john,Wong,john230@email.com,,store,Electronic,Tablet - Silver - 64GB,857,734,1296,323
+ORD77,john,Smith,john231@email.com,North,social media,ELEC,Chair / Brown / Standard,829,960,590,1455
+ORD77,john,doe,john232@email.com,N/A,ONLINE,ELEC,Phone - Black - 128GB,319,1171,879,1288
+ORD233,bob,tan ,bob233@email.com,North,social media,electronics,Desk|White|Large,950,773,1257,1536
+ORD234,Jane,doe,jane234@email.com,North,social media,furniture,Phone - Black - 128GB,655,990,135,1946
+ORD78,SARAH,Lim,sarah235@email.com,North,STORE,electronics,Chair / Brown / Standard,753,203,348,1714
+ORD236,ALICE,LEE,alice236@email.com,North,online,Home Furniture,Tablet - Silver - 64GB,573,875,1076,692
+ORD237,michael,doe,michael237@email.com,South,Social Media,ELEC,Laptop|Grey|512GB,233,544,166,1188
+ORD79,michael,LEE,michael238@email.com,N/A,Social Media,Electronic,Chair / Brown / Standard,393,1120,991,239
+ORD79,ALICE,tan ,alice239@email.com,North,social media,Furniture,Laptop|Grey|512GB,993,96,710,1720
+ORD80,bob,doe,bob240@email.com,South,Store ,Electronic,Laptop|Grey|512GB,246,970,250,1049
+ORD241,john,Wong,john241@email.com,North,STORE,ELECTRONICS ,Phone - Black - 128GB,785,402,238,584
+ORD80,ALICE,Wong,alice242@email.com,West,STORE,electronics,Laptop|Grey|512GB,796,1155,845,886
+ORD243,Jane,doe,jane243@email.com,North,STORE,electronics,Desk|White|Large,247,125,748,1455
+ORD244,bob,Smith,bob244@email.com,,STORE,Furniture,Laptop|Grey|512GB,425,145,370,1934
+ORD245,bob,tan ,bob245@email.com,,Social Media,Electronic,Chair / Brown / Standard,767,941,392,153
+ORD246,SARAH,tan ,sarah246@email.com,N/A,store,ELECTRONICS ,Chair / Brown / Standard,291,382,60,1609
+ORD82,bob,Wong,bob247@email.com,West,STORE,Electronic,Laptop|Grey|512GB,565,982,50,424
+ORD248,bob,LEE,bob248@email.com,,ONLINE,Electronic,Chair / Brown / Standard,486,835,1256,1750
+ORD83,Jane,Lim,jane249@email.com,South,STORE,electronics,Chair / Brown / Standard,308,712,1095,330
+ORD83,john,Smith,john250@email.com,,online,ELECTRONICS ,Laptop|Grey|512GB,548,1079,838,1374
+ORD251,john,Smith,john251@email.com,,Social Media,Electronics,Laptop|Grey|512GB,251,270,922,591
+ORD252,john,Lim,john252@email.com,,Social Media,Electronic,Phone - Black - 128GB,607,891,711,712
+ORD253,Jane,doe,jane253@email.com,South,ONLINE,Furniture,Phone - Black - 128GB,969,470,143,1478
+ORD254,bob,LEE,bob254@email.com,South,social media,furniture,Laptop|Grey|512GB,59,475,859,309
+ORD85,john,Wong,john255@email.com,South,online,electronics,Desk|White|Large,86,1049,860,750
+ORD85,bob,tan ,bob256@email.com,South,ONLINE,furniture,Laptop|Grey|512GB,169,216,849,323
+ORD85,Jane,Wong,jane257@email.com,South,Social Media,Electronic,Laptop|Grey|512GB,621,106,185,1475
+ORD258,john,Lim,john258@email.com,North,social media,Electronic,Phone - Black - 128GB,258,564,972,976
+ORD259,ALICE,LEE,alice259@email.com,East,Social Media,ELECTRONICS ,Laptop|Grey|512GB,672,181,955,1761
+ORD260,michael,LEE,michael260@email.com,,social media,FURN,Tablet - Silver - 64GB,600,221,1406,1235
+ORD261,Jane,Lim,jane261@email.com,,STORE,electronics,Phone - Black - 128GB,928,428,1418,829
+ORD87,SARAH,tan ,sarah262@email.com,,STORE,ELEC,Laptop|Grey|512GB,492,820,1159,1247
+ORD87,michael,Wong,michael263@email.com,North,STORE,Furniture,Phone - Black - 128GB,510,435,536,1305
+ORD264,michael,Smith,michael264@email.com,South,store,electronics,Phone - Black - 128GB,171,1050,1014,1007
+ORD88,bob,tan ,bob265@email.com,,Online ,Home Furniture,Laptop|Grey|512GB,794,668,499,1254
+ORD88,michael,tan ,michael266@email.com,,STORE,FURN,Chair / Brown / Standard,803,539,1079,1353
+ORD267,Jane,tan ,jane267@email.com,South,ONLINE,Electronics,Chair / Brown / Standard,113,457,1330,1372
+ORD89,SARAH,LEE,sarah268@email.com,South,Store ,Home Furniture,Tablet - Silver - 64GB,348,185,1148,1697
+ORD269,SARAH,Wong,sarah269@email.com,North,Social Media,electronics,Laptop|Grey|512GB,878,73,681,1555
+ORD90,michael,LEE,michael270@email.com,West,ONLINE,ELEC,Phone - Black - 128GB,963,1086,1330,83
+ORD271,bob,Lim,bob271@email.com,N/A,store,FURN,Laptop|Grey|512GB,343,122,330,791
+ORD90,ALICE,Lim,alice272@email.com,South,STORE,Furniture,Laptop|Grey|512GB,310,592,1182,839
+ORD273,Jane,Lim,jane273@email.com,West,Store ,ELEC,Tablet - Silver - 64GB,194,826,1126,1282
+ORD274,ALICE,Lim,alice274@email.com,West,social media,Electronic,Desk|White|Large,423,372,1354,338
+ORD275,Jane,Smith,jane275@email.com,North,STORE,Home Furniture,Desk|White|Large,792,658,1312,1282
+ORD276,Jane,LEE,jane276@email.com,North,Social Media,furniture,Desk|White|Large,971,1140,812,1362
+ORD277,michael,doe,michael277@email.com,South,STORE,Electronic,Phone - Black - 128GB,280,441,81,537
+ORD278,john,tan ,john278@email.com,West,online,FURN,Desk|White|Large,628,1138,646,1269
+ORD93,bob,Smith,bob279@email.com,,Social Media,ELEC,Desk|White|Large,312,128,1206,284
+ORD280,ALICE,tan ,alice280@email.com,,Online ,ELECTRONICS ,Chair / Brown / Standard,886,624,206,159
+ORD93,Jane,tan ,jane281@email.com,West,online,Furniture,Chair / Brown / Standard,79,870,1099,1100
+ORD282,SARAH,Lim,sarah282@email.com,East,Store ,Home Furniture,Phone - Black - 128GB,695,1050,754,93
+ORD94,bob,Wong,bob283@email.com,North,ONLINE,FURN,Tablet - Silver - 64GB,604,710,496,1379
+ORD94,Jane,tan ,jane284@email.com,,STORE,Furn ,Phone - Black - 128GB,583,307,1181,1371
+ORD95,Jane,Lim,jane285@email.com,,Store ,ELEC,Chair / Brown / Standard,60,738,64,1835
+ORD286,Jane,tan ,jane286@email.com,West,Social Media,Home Furniture,Desk|White|Large,434,364,1225,1025
+ORD95,bob,LEE,bob287@email.com,South,social media,Electronic,Desk|White|Large,794,593,406,1995
+ORD96,bob,LEE,bob288@email.com,South,ONLINE,Home Furniture,Phone - Black - 128GB,393,619,506,1511
+ORD96,john,Lim,john289@email.com,North,online,Furn ,Laptop|Grey|512GB,846,1045,824,1423
+ORD290,john,Lim,john290@email.com,South,ONLINE,ELECTRONICS ,Tablet - Silver - 64GB,332,376,1439,1628
+ORD97,michael,tan ,michael291@email.com,West,STORE,FURN,Laptop|Grey|512GB,63,766,1330,1094
+ORD97,michael,LEE,michael292@email.com,N/A,STORE,Furniture,Phone - Black - 128GB,89,78,927,1176
+ORD97,Jane,LEE,jane293@email.com,South,Social Media,FURN,Laptop|Grey|512GB,148,750,996,1214
+ORD98,michael,Wong,michael294@email.com,East,social media,Electronics,Tablet - Silver - 64GB,939,724,637,1010
+ORD295,SARAH,tan ,sarah295@email.com,West,Online ,ELECTRONICS ,Phone - Black - 128GB,767,1038,1013,1261
+ORD98,Jane,tan ,jane296@email.com,East,online,Furn ,Desk|White|Large,783,483,985,148
+ORD99,bob,tan ,bob297@email.com,,ONLINE,furniture,Desk|White|Large,844,145,1338,1564
+ORD298,michael,Lim,michael298@email.com,North,STORE,Electronics,Laptop|Grey|512GB,986,1065,519,558
+ORD99,john,Wong,john299@email.com,,ONLINE,Electronics,Phone - Black - 128GB,820,232,552,926
+ORD100,john,doe,john300@email.com,West,online,ELECTRONICS ,Chair / Brown / Standard,500,920,1414,337
+ORD301,ALICE,Wong,alice301@email.com,South,online,Furniture,Chair / Brown / Standard,968,164,955,845
+ORD100,Jane,Smith,jane302@email.com,West,Store ,Furn ,Tablet - Silver - 64GB,629,922,703,1178
+ORD101,ALICE,Lim,alice303@email.com,N/A,store,Furn ,Laptop|Grey|512GB,460,385,1272,271
+ORD304,Jane,Smith,jane304@email.com,North,Online ,Home Furniture,Desk|White|Large,53,819,451,1481
+ORD305,bob,Wong,bob305@email.com,North,ONLINE,ELECTRONICS ,Chair / Brown / Standard,595,484,1046,1754
+ORD306,bob,tan ,bob306@email.com,South,STORE,ELEC,Chair / Brown / Standard,238,316,987,1538
+ORD307,Jane,tan ,jane307@email.com,South,STORE,Electronics,Chair / Brown / Standard,175,381,957,321
+ORD102,Jane,Wong,jane308@email.com,East,store,Furniture,Desk|White|Large,960,1109,1353,410
+ORD309,ALICE,Smith,alice309@email.com,,Online ,ELEC,Tablet - Silver - 64GB,138,1006,560,59
+ORD310,john,LEE,john310@email.com,,STORE,Furn ,Laptop|Grey|512GB,875,94,878,953
+ORD103,michael,LEE,michael311@email.com,,social media,Furn ,Tablet - Silver - 64GB,119,400,975,1938
+ORD312,Jane,LEE,jane312@email.com,West,store,Electronic,Tablet - Silver - 64GB,301,726,1166,1247
+ORD313,michael,Smith,michael313@email.com,,Store ,Home Furniture,Desk|White|Large,206,217,1262,110
+ORD104,Jane,Wong,jane314@email.com,West,Social Media,Electronic,Desk|White|Large,81,200,1420,1616
+ORD105,SARAH,tan ,sarah315@email.com,,Social Media,Furn ,Phone - Black - 128GB,432,826,642,267
+ORD105,Jane,Smith,jane316@email.com,South,Store ,Furniture,Desk|White|Large,994,755,1231,657
+ORD105,ALICE,tan ,alice317@email.com,West,store,ELEC,Desk|White|Large,584,231,1405,895
+ORD318,john,Wong,john318@email.com,,STORE,Electronics,Phone - Black - 128GB,110,808,284,1526
+ORD106,Jane,doe,jane319@email.com,,ONLINE,ELEC,Phone - Black - 128GB,251,411,865,995
+ORD320,john,LEE,john320@email.com,West,Online ,Furniture,Desk|White|Large,231,601,1462,895
+ORD107,SARAH,Lim,sarah321@email.com,North,STORE,Home Furniture,Tablet - Silver - 64GB,772,600,180,915
+ORD322,Jane,Smith,jane322@email.com,East,Social Media,Home Furniture,Laptop|Grey|512GB,881,510,52,1582
+ORD323,michael,Lim,michael323@email.com,North,Online ,ELEC,Tablet - Silver - 64GB,140,1001,79,1901
+ORD108,Jane,Lim,jane324@email.com,North,social media,Electronics,Phone - Black - 128GB,797,120,1333,817
+ORD108,michael,tan ,michael325@email.com,,Social Media,electronics,Desk|White|Large,608,329,601,1337
+ORD108,michael,LEE,michael326@email.com,North,online,furniture,Tablet - Silver - 64GB,243,1177,336,1532
+ORD109,bob,Wong,bob327@email.com,N/A,STORE,Home Furniture,Laptop|Grey|512GB,888,620,959,823
+ORD109,michael,doe,michael328@email.com,East,Online ,FURN,Desk|White|Large,983,738,1458,912
+ORD109,bob,Lim,bob329@email.com,West,ONLINE,Electronics,Tablet - Silver - 64GB,441,404,1492,1704
+ORD110,SARAH,Lim,sarah330@email.com,,Store ,Home Furniture,Desk|White|Large,698,345,614,240
+ORD110,michael,Lim,michael331@email.com,South,social media,Home Furniture,Tablet - Silver - 64GB,421,189,1122,805
+ORD332,ALICE,tan ,alice332@email.com,East,STORE,ELEC,Desk|White|Large,500,357,827,1912
+ORD111,bob,Wong,bob333@email.com,North,social media,FURN,Laptop|Grey|512GB,221,741,559,1136
+ORD111,john,Smith,john334@email.com,,ONLINE,ELECTRONICS ,Desk|White|Large,285,390,795,1561
+ORD111,ALICE,Lim,alice335@email.com,East,Store ,ELECTRONICS ,Laptop|Grey|512GB,831,653,407,1771
+ORD336,bob,Wong,bob336@email.com,N/A,store,Electronics,Phone - Black - 128GB,253,730,1074,679
+ORD112,ALICE,doe,alice337@email.com,East,online,Furniture,Chair / Brown / Standard,384,745,95,948
+ORD112,bob,LEE,bob338@email.com,,STORE,Home Furniture,Desk|White|Large,749,584,1010,794
+ORD113,bob,Lim,bob339@email.com,North,Store ,Electronics,Desk|White|Large,361,681,477,420
+ORD113,bob,doe,bob340@email.com,,social media,FURN,Tablet - Silver - 64GB,263,127,462,303
+ORD341,michael,Smith,michael341@email.com,South,social media,Furn ,Laptop|Grey|512GB,502,1109,1000,1800
+ORD114,bob,Smith,bob342@email.com,South,STORE,ELEC,Desk|White|Large,608,756,194,1644
+ORD114,john,LEE,john343@email.com,N/A,store,Home Furniture,Laptop|Grey|512GB,264,64,1175,1932
+ORD344,john,Wong,john344@email.com,N/A,social media,ELECTRONICS ,Desk|White|Large,848,663,1398,242
+ORD115,john,Wong,john345@email.com,South,ONLINE,furniture,Desk|White|Large,432,995,883,1136
+ORD115,ALICE,doe,alice346@email.com,East,store,Furn ,Tablet - Silver - 64GB,902,173,1370,1579
+ORD115,bob,doe,bob347@email.com,,online,ELECTRONICS ,Desk|White|Large,425,783,701,1382
+ORD116,michael,doe,michael348@email.com,East,Online ,furniture,Laptop|Grey|512GB,676,330,164,1152
+ORD349,Jane,Smith,jane349@email.com,South,social media,furniture,Desk|White|Large,872,633,373,570

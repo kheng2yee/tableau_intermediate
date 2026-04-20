@@ -1,0 +1,1001 @@
+Order ID,Order Date,Units Purchased,Unit Price,Cost Per Unit,Product Name,Product Category,Region,Channel,Sales Rep
+ORD-00001,2025-04-13,3,1458,1213.48,Smart Watch,Electronics,Central,Social Media,
+ORD-00002,2025-12-15,2,1371,1194.8,Wireless Headset,Electronics,Central,Online,
+ORD-00003,2025-09-28,1,2542,1573.82,Smart Watch,Electronics,North,Store,Aisyah
+ORD-00004,2025-04-17,3,2829,2474.22,Wireless Headset,Electronics,Central,Online,
+ORD-00005,2025-03-13,4,1533,829.35,Wireless Headset,Electronics,North,Store,Mei Ling
+ORD-00006,2025-07-08,3,419,257.64,Running Shoes,Sports,North,Store,Kumar
+ORD-00007,2025-01-21,5,2072,1377.93,Wireless Headset,Electronics,South,Outlet,Daniel
+ORD-00008,2025-04-13,5,177,146.64,Running Shoes,Sports,Central,Online,
+ORD-00009,2025-05-02,4,1865,1627.19,Standing Desk,Furniture,South,Online,
+ORD-00010,2025-08-03,3,122,99.53,Running Shoes,Sports,Central,Social Media,
+ORD-00011,2025-11-27,1,1864,1075.11,Smart Watch,Electronics,North,Store,Aisyah
+ORD-00012,2025-03-29,5,138,72.23,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00013,2025-04-10,3,1590,1047.5,Smart Watch,Electronics,North,Store,Kumar
+ORD-00014,2025-12-26,5,2512,1652.19,Wireless Headset,Electronics,South,Outlet,Aisyah
+ORD-00015,2025-06-01,1,510,330.88,Running Shoes,Sports,South,Outlet,Aisyah
+ORD-00016,2025-05-11,4,1316,748.04,Standing Desk,Furniture,East,Store,Mei Ling
+ORD-00017,2025-05-30,5,727,559.15,Air Fryer,Appliances,Central,Social Media,
+ORD-00018,2025-11-05,5,2871,1850.22,Wireless Headset,Electronics,South,Outlet,Aisyah
+ORD-00019,2025-09-15,2,894,548.11,Office Chair,Furniture,North,Store,Daniel
+ORD-00020,2025-12-10,2,2506,1733.69,Wireless Headset,Electronics,North,Store,Kumar
+ORD-00021,2025-10-21,2,1162,717.24,Standing Desk,Furniture,South,Outlet,Aisyah
+ORD-00022,2025-07-11,2,203,136.91,Running Shoes,Sports,South,Outlet,Kumar
+ORD-00023,2025-10-04,4,232,206.1,Running Shoes,Sports,Central,Online,
+ORD-00024,2025-06-10,2,477,362.68,Yoga Mat,Sports,Central,Social Media,
+ORD-00025,2025-11-10,3,2252,1727.25,Smart Watch,Electronics,East,Social Media,
+ORD-00026,2025-01-22,5,681,604.81,Coffee Machine,Appliances,Central,Social Media,
+ORD-00027,2025-09-10,3,556,360.76,Running Shoes,Sports,East,Store,Daniel
+ORD-00028,2025-08-24,2,253,143.38,Running Shoes,Sports,North,Store,Aisyah
+ORD-00029,2025-12-11,4,1736,1423.27,Wireless Headset,Electronics,North,Social Media,
+ORD-00030,2025-02-18,3,227,123.7,Running Shoes,Sports,North,Store,Mei Ling
+ORD-00031,2025-02-28,4,554,295.34,Running Shoes,Sports,North,Store,Mei Ling
+ORD-00032,2025-06-19,5,162,128.25,Yoga Mat,Sports,Central,Online,
+ORD-00033,2025-07-07,2,436,301.81,Yoga Mat,Sports,South,Outlet,Kumar
+ORD-00034,2025-09-28,1,1347,1211.67,Smart Watch,Electronics,Central,Online,
+ORD-00035,2025-07-09,1,314,255.6,Yoga Mat,Sports,Central,Social Media,
+ORD-00036,2025-06-24,3,384,240.0,Running Shoes,Sports,North,Store,Aisyah
+ORD-00037,2025-02-20,5,923,473.63,Coffee Machine,Appliances,South,Outlet,Daniel
+ORD-00038,2025-12-30,3,2398,1971.55,Wireless Headset,Electronics,Central,Online,
+ORD-00039,2025-02-24,3,2030,1320.82,Wireless Headset,Electronics,North,Store,Mei Ling
+ORD-00040,2025-09-01,2,2681,2020.96,Wireless Headset,Electronics,Central,Social Media,
+ORD-00041,2025-11-16,4,2401,1880.69,Smart Watch,Electronics,Central,Online,
+ORD-00042,2025-05-11,3,2990,2601.26,Smart Watch,Electronics,Central,Social Media,
+ORD-00043,2025-11-03,3,2274,1980.19,Wireless Headset,Electronics,North,Social Media,
+ORD-00044,2025-05-15,3,568,330.17,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00045,2025-01-21,2,1129,611.44,Standing Desk,Furniture,North,Store,Mei Ling
+ORD-00046,2025-11-25,3,2847,1663.46,Smart Watch,Electronics,North,Store,Mei Ling
+ORD-00047,2025-06-16,2,110,86.78,Running Shoes,Sports,Central,Online,
+ORD-00048,2025-10-01,2,618,540.5,Air Fryer,Appliances,Central,Online,
+ORD-00049,2025-03-30,5,1704,1353.27,Standing Desk,Furniture,Central,Online,
+ORD-00050,2025-11-12,4,2729,2093.51,Wireless Headset,Electronics,Central,Online,
+ORD-00051,2025-01-14,3,1235,1016.06,Air Fryer,Appliances,Central,Online,
+ORD-00052,2025-08-30,1,549,344.06,Yoga Mat,Sports,South,Outlet,Daniel
+ORD-00053,2025-09-22,1,1293,782.44,Office Chair,Furniture,South,Outlet,Mei Ling
+ORD-00054,2025-12-12,5,1809,1235.29,Wireless Headset,Electronics,South,Outlet,Mei Ling
+ORD-00055,2025-02-22,5,840,699.83,Standing Desk,Furniture,Central,Social Media,
+ORD-00056,2025-12-06,1,2197,1103.33,Smart Watch,Electronics,North,Store,Mei Ling
+ORD-00057,2025-04-02,5,1226,674.48,Wireless Headset,Electronics,South,Outlet,Aisyah
+ORD-00058,2025-09-21,5,2020,1348.6,Wireless Headset,Electronics,North,Store,Kumar
+ORD-00059,2025-02-04,5,2699,2043.26,Smart Watch,Electronics,Central,Online,
+ORD-00060,2025-07-25,4,391,338.47,Yoga Mat,Sports,Central,Online,
+ORD-00061,2025-03-22,5,1011,650.89,Coffee Machine,Appliances,North,Store,Aisyah
+ORD-00062,2025-02-19,3,210,145.07,Yoga Mat,Sports,South,Outlet,Aisyah
+ORD-00063,2025-12-26,5,2535,1569.2,Wireless Headset,Electronics,South,Outlet,Aisyah
+ORD-00064,2025-01-02,3,2157,1867.18,Smart Watch,Electronics,North,Social Media,
+ORD-00065,2025-02-23,5,116,67.58,Running Shoes,Sports,North,Store,Daniel
+ORD-00066,2025-04-16,5,138,71.1,Running Shoes,Sports,North,Outlet,Aisyah
+ORD-00067,2025-09-17,2,534,422.3,Running Shoes,Sports,Central,Social Media,
+ORD-00068,2025-11-06,2,1723,1139.74,Smart Watch,Electronics,North,Store,Mei Ling
+ORD-00069,2025-07-10,1,156,127.44,Running Shoes,Sports,Central,Online,
+ORD-00070,2025-08-06,4,363,227.89,Running Shoes,Sports,North,Store,Aisyah
+ORD-00071,2025-02-13,1,1475,1323.2,Air Fryer,Appliances,Central,Social Media,
+ORD-00072,2025-06-11,2,125,94.49,Running Shoes,Sports,Central,Online,
+ORD-00073,2025-07-21,2,506,421.69,Running Shoes,Sports,Central,Online,
+ORD-00074,2025-09-27,2,1134,634.44,Standing Desk,Furniture,North,Store,Daniel
+ORD-00075,2025-12-17,2,2026,1314.9,Wireless Headset,Electronics,North,Store,Mei Ling
+ORD-00076,2025-10-31,4,901,599.87,Air Fryer,Appliances,North,Store,Daniel
+ORD-00077,2025-09-28,1,651,543.0,Coffee Machine,Appliances,Central,Social Media,
+ORD-00078,2025-08-03,5,270,216.26,Yoga Mat,Sports,Central,Online,
+ORD-00079,2025-09-09,4,1238,782.83,Wireless Headset,Electronics,North,Store,Aisyah
+ORD-00080,2025-07-09,5,592,368.92,Running Shoes,Sports,North,Store,Kumar
+ORD-00081,2025-10-23,2,1538,1158.41,Office Chair,Furniture,Central,Social Media,
+ORD-00082,2025-08-01,5,599,453.98,Yoga Mat,Sports,Central,Social Media,
+ORD-00083,2025-07-27,1,335,209.54,Yoga Mat,Sports,North,Store,Aisyah
+ORD-00084,2025-08-25,4,513,416.9,Yoga Mat,Sports,Central,Social Media,
+ORD-00085,2025-12-04,4,1588,1217.31,Smart Watch,Electronics,Central,Online,
+ORD-00086,2025-02-22,2,945,714.72,Office Chair,Furniture,Central,Online,
+ORD-00087,2025-10-07,1,898,726.25,Air Fryer,Appliances,Central,Social Media,
+ORD-00088,2025-08-05,4,160,126.22,Yoga Mat,Sports,Central,Online,
+ORD-00089,2025-09-09,4,1909,1315.2,Smart Watch,Electronics,North,Store,Kumar
+ORD-00090,2025-07-07,3,298,267.81,Running Shoes,Sports,Central,Online,
+ORD-00091,2025-02-10,3,742,569.89,Coffee Machine,Appliances,Central,Social Media,
+ORD-00092,2025-06-06,3,524,281.54,Yoga Mat,Sports,North,Store,Aisyah
+ORD-00093,2025-01-15,3,2997,2645.06,Smart Watch,Electronics,North,Online,
+ORD-00094,2025-10-28,3,1189,760.01,Air Fryer,Appliances,North,Store,Daniel
+ORD-00095,2025-03-06,3,480,398.66,Running Shoes,Sports,Central,Social Media,
+ORD-00096,2025-12-11,1,1779,935.58,Smart Watch,Electronics,Central,Store,Daniel
+ORD-00097,2025-11-23,1,2418,1226.13,Wireless Headset,Electronics,South,Outlet,Kumar
+ORD-00098,2025-01-09,1,571,449.89,Running Shoes,Sports,North,Social Media,
+ORD-00099,2025-12-10,3,2399,1305.14,Wireless Headset,Electronics,North,Outlet,Aisyah
+ORD-00100,2025-05-09,5,1772,1061.48,Office Chair,Furniture,South,Outlet,Kumar
+ORD-00101,2025-05-16,5,155,98.03,Running Shoes,Sports,South,Outlet,Daniel
+ORD-00102,2025-03-04,3,646,548.3,Coffee Machine,Appliances,Central,Online,
+ORD-00103,2025-05-19,1,368,322.2,Running Shoes,Sports,East,Social Media,
+ORD-00104,2025-03-22,1,1993,1275.12,Standing Desk,Furniture,South,Outlet,Mei Ling
+ORD-00105,2025-06-12,4,144,126.83,Yoga Mat,Sports,Central,Online,
+ORD-00106,2025-10-16,3,1334,1164.57,Standing Desk,Furniture,Central,Online,
+ORD-00107,2025-09-18,5,357,312.31,Running Shoes,Sports,Central,Online,
+ORD-00108,2025-08-19,5,323,246.32,Yoga Mat,Sports,Central,Social Media,
+ORD-00109,2025-02-10,3,859,494.22,Air Fryer,Appliances,Central,Store,Daniel
+ORD-00110,2025-01-28,5,825,712.93,Coffee Machine,Appliances,Central,Social Media,
+ORD-00111,2025-05-15,2,1330,833.28,Air Fryer,Appliances,South,Outlet,Kumar
+ORD-00112,2025-07-20,5,503,320.7,Yoga Mat,Sports,North,Store,Aisyah
+ORD-00113,2025-11-24,2,2547,1666.24,Smart Watch,Electronics,North,Store,Aisyah
+ORD-00114,2025-09-25,1,573,436.17,Running Shoes,Sports,Central,Online,
+ORD-00115,2025-02-02,2,1186,698.78,Air Fryer,Appliances,North,Store,Kumar
+ORD-00116,2025-02-17,3,880,444.33,Air Fryer,Appliances,South,Outlet,Aisyah
+ORD-00117,2025-03-03,3,578,378.06,Coffee Machine,Appliances,North,Store,Mei Ling
+ORD-00118,2025-08-04,2,103,60.28,Yoga Mat,Sports,North,Store,Kumar
+ORD-00119,2025-10-20,5,838,732.32,Office Chair,Furniture,Central,Social Media,
+ORD-00120,2025-04-09,3,1953,1066.36,Office Chair,Furniture,North,Store,Kumar
+ORD-00121,2025-06-21,3,335,169.6,Yoga Mat,Sports,North,Store,Aisyah
+ORD-00122,2025-12-26,5,1220,1031.85,Smart Watch,Electronics,Central,Social Media,
+ORD-00123,2025-08-02,3,521,284.46,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00124,2025-02-04,5,1808,1037.26,Standing Desk,Furniture,North,Store,Daniel
+ORD-00125,2025-08-15,4,572,503.53,Running Shoes,Sports,Central,Social Media,
+ORD-00126,2025-04-11,5,1719,1041.84,Smart Watch,Electronics,South,Outlet,Daniel
+ORD-00127,2025-05-11,3,1439,1276.07,Coffee Machine,Appliances,Central,Online,
+ORD-00128,2025-09-14,2,1715,1410.12,Office Chair,Furniture,Central,Online,
+ORD-00129,2025-01-05,1,531,317.71,Yoga Mat,Sports,North,Store,Aisyah
+ORD-00130,2025-08-06,5,171,96.11,Yoga Mat,Sports,North,Store,Daniel
+ORD-00131,2025-09-12,5,373,237.26,Running Shoes,Sports,North,Store,Daniel
+ORD-00132,2025-12-25,2,2589,1634.69,Wireless Headset,Electronics,South,Outlet,Aisyah
+ORD-00133,2025-10-10,1,2000,1289.71,Smart Watch,Electronics,South,Outlet,Daniel
+ORD-00134,2025-07-26,3,476,292.35,Running Shoes,Sports,South,Outlet,Mei Ling
+ORD-00135,2025-01-15,4,2883,1447.13,Wireless Headset,Electronics,North,Store,Aisyah
+ORD-00136,2025-12-12,4,1201,963.92,Smart Watch,Electronics,Central,Social Media,
+ORD-00137,2025-02-11,1,1165,657.55,Air Fryer,Appliances,East,Outlet,Mei Ling
+ORD-00138,2025-06-28,2,581,295.29,Running Shoes,Sports,South,Outlet,Mei Ling
+ORD-00139,2025-03-04,4,222,167.55,Yoga Mat,Sports,Central,Online,
+ORD-00140,2025-12-18,1,2582,1657.16,Smart Watch,Electronics,South,Outlet,Mei Ling
+ORD-00141,2025-08-19,2,210,183.17,Running Shoes,Sports,Central,Online,
+ORD-00142,2025-08-29,3,489,426.7,Yoga Mat,Sports,Central,Social Media,
+ORD-00143,2025-02-21,2,626,484.9,Air Fryer,Appliances,Central,Social Media,
+ORD-00144,2025-04-06,3,1813,1536.6,Office Chair,Furniture,Central,Online,
+ORD-00145,2025-08-10,1,154,126.36,Running Shoes,Sports,Central,Social Media,
+ORD-00146,2025-08-19,5,387,232.06,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00147,2025-08-25,2,451,374.95,Running Shoes,Sports,Central,Social Media,
+ORD-00148,2025-05-23,3,342,217.53,Running Shoes,Sports,Central,Outlet,Mei Ling
+ORD-00149,2025-06-20,5,431,230.52,Running Shoes,Sports,South,Outlet,Mei Ling
+ORD-00150,2025-01-29,5,1756,1098.82,Standing Desk,Furniture,North,Store,Kumar
+ORD-00151,2025-02-05,4,251,152.77,Running Shoes,Sports,North,Store,Mei Ling
+ORD-00152,2025-01-13,3,749,433.75,Air Fryer,Appliances,South,Outlet,Mei Ling
+ORD-00153,2025-06-09,4,519,303.27,Running Shoes,Sports,South,Outlet,Daniel
+ORD-00154,2025-11-23,2,1954,1527.25,Wireless Headset,Electronics,Central,Online,
+ORD-00155,2025-07-06,5,324,249.39,Yoga Mat,Sports,Central,Social Media,
+ORD-00156,2025-08-31,4,397,311.9,Running Shoes,Sports,Central,Social Media,
+ORD-00157,2025-03-27,2,1336,1100.65,Air Fryer,Appliances,Central,Social Media,
+ORD-00158,2025-10-11,4,1003,573.56,Air Fryer,Appliances,South,Outlet,Mei Ling
+ORD-00159,2025-03-07,2,644,362.2,Coffee Machine,Appliances,South,Outlet,Mei Ling
+ORD-00160,2025-06-19,4,360,203.41,Yoga Mat,Sports,South,Outlet,Mei Ling
+ORD-00161,2025-02-14,4,2899,1585.56,Wireless Headset,Electronics,South,Outlet,Aisyah
+ORD-00162,2025-03-03,2,769,636.71,Air Fryer,Appliances,Central,Online,
+ORD-00163,2025-05-14,2,2043,1205.14,Wireless Headset,Electronics,South,Outlet,Daniel
+ORD-00164,2025-10-11,3,1312,750.27,Standing Desk,Furniture,South,Outlet,Daniel
+ORD-00165,2025-01-28,4,1930,1639.67,Standing Desk,Furniture,Central,Online,
+ORD-00166,2025-04-18,5,955,584.1,Standing Desk,Furniture,North,Store,Kumar
+ORD-00167,2025-02-13,3,1141,946.66,Air Fryer,Appliances,Central,Online,
+ORD-00168,2025-12-06,4,1481,1160.67,Wireless Headset,Electronics,Central,Online,
+ORD-00169,2025-10-13,5,1336,803.53,Coffee Machine,Appliances,North,Store,Mei Ling
+ORD-00170,2025-11-27,4,1689,1511.26,Smart Watch,Electronics,North,Online,
+ORD-00171,2025-05-08,3,1016,894.27,Standing Desk,Furniture,Central,Social Media,
+ORD-00172,2025-12-14,3,2401,1267.56,Wireless Headset,Electronics,South,Outlet,Aisyah
+ORD-00173,2025-08-19,5,474,252.39,Yoga Mat,Sports,North,Store,Kumar
+ORD-00174,2025-07-09,5,256,150.72,Running Shoes,Sports,North,Store,Kumar
+ORD-00175,2025-08-13,5,389,245.97,Running Shoes,Sports,South,Outlet,Mei Ling
+ORD-00176,2025-10-10,2,1626,1083.2,Smart Watch,Electronics,North,Store,Kumar
+ORD-00177,2025-05-01,1,444,283.23,Yoga Mat,Sports,South,Outlet,Mei Ling
+ORD-00178,2025-04-26,1,1970,1310.77,Office Chair,Furniture,South,Outlet,Kumar
+ORD-00179,2025-08-21,5,553,311.68,Yoga Mat,Sports,North,Store,Kumar
+ORD-00180,2025-09-16,1,1187,779.24,Air Fryer,Appliances,Central,Store,Mei Ling
+ORD-00181,2025-12-25,5,2382,1500.9,Wireless Headset,Electronics,South,Outlet,Mei Ling
+ORD-00182,2025-07-17,4,581,502.18,Yoga Mat,Sports,Central,Social Media,
+ORD-00183,2025-05-17,1,1650,948.97,Office Chair,Furniture,North,Store,Kumar
+ORD-00184,2025-11-14,1,1924,1605.61,Smart Watch,Electronics,Central,Social Media,
+ORD-00185,2025-06-14,3,516,282.51,Running Shoes,Sports,North,Store,Daniel
+ORD-00186,2025-08-13,1,366,307.63,Running Shoes,Sports,Central,Social Media,
+ORD-00187,2025-11-03,2,2161,1314.91,Smart Watch,Electronics,North,Store,Daniel
+ORD-00188,2025-08-22,2,253,132.01,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00189,2025-06-21,5,327,203.26,Yoga Mat,Sports,South,Outlet,Aisyah
+ORD-00190,2025-06-01,2,592,517.03,Yoga Mat,Sports,Central,Online,
+ORD-00191,2025-11-11,3,2214,1504.65,Smart Watch,Electronics,South,Outlet,Kumar
+ORD-00192,2025-06-09,1,423,290.55,Yoga Mat,Sports,North,Store,Kumar
+ORD-00193,2025-04-06,3,151,95.74,Running Shoes,Sports,South,Store,Mei Ling
+ORD-00194,2025-08-21,5,235,187.22,Yoga Mat,Sports,Central,Online,
+ORD-00195,2025-06-29,4,176,102.56,Running Shoes,Sports,South,Outlet,Kumar
+ORD-00196,2025-04-23,1,1549,937.2,Smart Watch,Electronics,South,Outlet,Daniel
+ORD-00197,2025-11-14,1,1644,1337.69,Wireless Headset,Electronics,Central,Social Media,
+ORD-00198,2025-02-21,1,1390,862.25,Coffee Machine,Appliances,South,Outlet,Kumar
+ORD-00199,2025-09-25,5,1925,1197.73,Smart Watch,Electronics,South,Outlet,Kumar
+ORD-00200,2025-10-22,2,1481,1189.26,Standing Desk,Furniture,Central,Social Media,
+ORD-00201,2025-04-23,2,2058,1379.34,Wireless Headset,Electronics,South,Outlet,Daniel
+ORD-00202,2025-04-11,2,1414,1092.25,Coffee Machine,Appliances,Central,Online,
+ORD-00203,2025-04-23,2,1060,714.28,Coffee Machine,Appliances,South,Outlet,Daniel
+ORD-00204,2025-03-22,1,249,187.63,Yoga Mat,Sports,Central,Online,
+ORD-00205,2025-07-06,3,237,130.68,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00206,2025-04-23,5,753,676.32,Air Fryer,Appliances,Central,Online,
+ORD-00207,2025-01-02,3,666,568.67,Coffee Machine,Appliances,East,Online,
+ORD-00208,2025-05-10,4,1501,832.8,Smart Watch,Electronics,North,Store,Aisyah
+ORD-00209,2025-08-08,4,486,393.75,Running Shoes,Sports,Central,Social Media,
+ORD-00210,2025-02-23,1,2293,1349.39,Smart Watch,Electronics,Central,Outlet,Daniel
+ORD-00211,2025-12-09,4,2865,1566.42,Smart Watch,Electronics,North,Store,Mei Ling
+ORD-00212,2025-08-12,5,480,283.86,Yoga Mat,Sports,East,Store,Aisyah
+ORD-00213,2025-08-13,2,201,167.57,Running Shoes,Sports,North,Social Media,
+ORD-00214,2025-05-06,2,763,467.31,Coffee Machine,Appliances,South,Outlet,Daniel
+ORD-00215,2025-05-10,4,1086,901.79,Standing Desk,Furniture,Central,Online,
+ORD-00216,2025-02-22,1,1711,1360.46,Office Chair,Furniture,Central,Social Media,
+ORD-00217,2025-06-21,4,447,400.57,Yoga Mat,Sports,Central,Online,
+ORD-00218,2025-08-06,5,220,139.55,Yoga Mat,Sports,South,Outlet,Mei Ling
+ORD-00219,2025-06-09,4,330,222.07,Running Shoes,Sports,South,Outlet,Kumar
+ORD-00220,2025-07-17,5,599,384.41,Running Shoes,Sports,North,Store,Daniel
+ORD-00221,2025-09-04,4,913,736.92,Office Chair,Furniture,North,Online,
+ORD-00222,2025-11-20,2,1960,1712.63,Wireless Headset,Electronics,Central,Social Media,
+ORD-00223,2025-07-22,2,518,340.46,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00224,2025-07-03,4,111,76.16,Yoga Mat,Sports,South,Outlet,Kumar
+ORD-00225,2025-05-03,2,390,247.6,Yoga Mat,Sports,North,Store,Aisyah
+ORD-00226,2025-09-12,2,435,235.94,Running Shoes,Sports,South,Outlet,Kumar
+ORD-00227,2025-10-21,1,1598,1252.1,Wireless Headset,Electronics,Central,Online,
+ORD-00228,2025-10-07,4,1036,545.46,Coffee Machine,Appliances,North,Store,Daniel
+ORD-00229,2025-11-21,1,1363,846.76,Smart Watch,Electronics,North,Store,Mei Ling
+ORD-00230,2025-04-08,5,982,858.05,Coffee Machine,Appliances,Central,Social Media,
+ORD-00231,2025-07-17,5,504,254.6,Yoga Mat,Sports,East,Store,Mei Ling
+ORD-00232,2025-08-28,1,111,99.33,Yoga Mat,Sports,Central,Online,
+ORD-00233,2025-05-24,4,1342,1094.97,Office Chair,Furniture,Central,Social Media,
+ORD-00234,2025-04-07,4,1171,589.64,Coffee Machine,Appliances,South,Outlet,Mei Ling
+ORD-00235,2025-07-20,2,386,197.74,Running Shoes,Sports,North,Store,Kumar
+ORD-00236,2025-05-04,3,1141,1026.02,Coffee Machine,Appliances,Central,Social Media,
+ORD-00237,2025-07-06,5,182,97.21,Running Shoes,Sports,South,Outlet,Mei Ling
+ORD-00238,2025-11-22,5,2552,1952.68,Smart Watch,Electronics,Central,Social Media,
+ORD-00239,2025-12-15,4,1808,983.84,Smart Watch,Electronics,North,Store,Aisyah
+ORD-00240,2025-09-16,5,1219,992.16,Standing Desk,Furniture,Central,Online,
+ORD-00241,2025-05-28,5,982,594.21,Coffee Machine,Appliances,North,Store,Mei Ling
+ORD-00242,2025-09-09,5,1797,1383.82,Smart Watch,Electronics,Central,Online,
+ORD-00243,2025-12-12,5,1445,1248.54,Wireless Headset,Electronics,Central,Online,
+ORD-00244,2025-05-27,2,112,84.2,Running Shoes,Sports,Central,Online,
+ORD-00245,2025-05-28,2,272,138.32,Yoga Mat,Sports,North,Outlet,Kumar
+ORD-00246,2025-12-18,1,2194,1296.38,Smart Watch,Electronics,North,Store,Mei Ling
+ORD-00247,2025-07-18,4,381,293.02,Yoga Mat,Sports,Central,Online,
+ORD-00248,2025-11-04,2,2787,2289.25,Smart Watch,Electronics,Central,Online,
+ORD-00249,2025-05-08,1,2956,2612.55,Smart Watch,Electronics,Central,Social Media,
+ORD-00250,2025-02-08,1,619,551.79,Air Fryer,Appliances,South,Online,
+ORD-00251,2025-12-04,2,1771,1215.02,Smart Watch,Electronics,South,Outlet,Mei Ling
+ORD-00252,2025-12-26,4,1431,857.3,Wireless Headset,Electronics,North,Store,Mei Ling
+ORD-00253,2025-05-09,3,1444,1275.64,Air Fryer,Appliances,Central,Social Media,
+ORD-00254,2025-09-24,5,527,435.74,Yoga Mat,Sports,North,Social Media,
+ORD-00255,2025-05-31,5,186,159.49,Running Shoes,Sports,Central,Social Media,
+ORD-00256,2025-10-25,5,2658,2007.68,Wireless Headset,Electronics,Central,Social Media,
+ORD-00257,2025-04-09,4,514,408.36,Running Shoes,Sports,Central,Online,
+ORD-00258,2025-09-20,3,490,321.82,Yoga Mat,Sports,North,Store,Aisyah
+ORD-00259,2025-09-09,3,360,305.66,Yoga Mat,Sports,Central,Social Media,
+ORD-00260,2025-05-24,2,2773,1885.03,Wireless Headset,Electronics,South,Outlet,Mei Ling
+ORD-00261,2025-12-12,1,1528,1148.39,Wireless Headset,Electronics,Central,Social Media,
+ORD-00262,2025-04-22,4,1089,684.74,Air Fryer,Appliances,North,Store,Mei Ling
+ORD-00263,2025-03-01,2,1318,743.94,Smart Watch,Electronics,East,Store,Mei Ling
+ORD-00264,2025-01-02,4,1851,1141.11,Wireless Headset,Electronics,North,Store,Daniel
+ORD-00265,2025-10-31,4,1021,533.13,Coffee Machine,Appliances,Central,Outlet,Aisyah
+ORD-00266,2025-09-11,2,1382,812.45,Smart Watch,Electronics,North,Store,Kumar
+ORD-00267,2025-05-20,1,2849,2188.67,Wireless Headset,Electronics,Central,Online,
+ORD-00268,2025-02-06,3,1387,1099.73,Coffee Machine,Appliances,Central,Social Media,
+ORD-00269,2025-06-09,1,248,214.09,Running Shoes,Sports,Central,Social Media,
+ORD-00270,2025-01-09,5,1101,953.98,Office Chair,Furniture,Central,Online,
+ORD-00271,2025-08-21,4,185,120.37,Yoga Mat,Sports,North,Store,Daniel
+ORD-00272,2025-04-09,1,368,285.1,Yoga Mat,Sports,North,Social Media,
+ORD-00273,2025-05-27,5,382,264.74,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00274,2025-10-31,3,543,316.4,Coffee Machine,Appliances,South,Outlet,Mei Ling
+ORD-00275,2025-07-27,5,290,151.14,Yoga Mat,Sports,South,Outlet,Daniel
+ORD-00276,2025-05-11,5,2253,1469.46,Smart Watch,Electronics,North,Store,Kumar
+ORD-00277,2025-06-01,2,360,243.46,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00278,2025-02-23,4,1365,767.38,Coffee Machine,Appliances,North,Store,Kumar
+ORD-00279,2025-04-30,5,1030,878.78,Standing Desk,Furniture,East,Online,
+ORD-00280,2025-06-10,5,185,162.28,Running Shoes,Sports,Central,Social Media,
+ORD-00281,2025-04-26,2,708,552.5,Coffee Machine,Appliances,South,Online,
+ORD-00282,2025-03-16,2,499,385.39,Running Shoes,Sports,Central,Online,
+ORD-00283,2025-04-23,3,210,123.84,Yoga Mat,Sports,South,Outlet,Kumar
+ORD-00284,2025-04-14,4,1813,1048.47,Standing Desk,Furniture,North,Store,Kumar
+ORD-00285,2025-12-06,5,2021,1260.94,Wireless Headset,Electronics,North,Store,Kumar
+ORD-00286,2025-09-11,4,1880,1091.27,Office Chair,Furniture,North,Store,Aisyah
+ORD-00287,2025-08-15,4,315,164.06,Yoga Mat,Sports,South,Outlet,Aisyah
+ORD-00288,2025-04-22,2,1399,868.36,Air Fryer,Appliances,South,Outlet,Aisyah
+ORD-00289,2025-04-09,2,1414,1065.36,Coffee Machine,Appliances,Central,Social Media,
+ORD-00290,2025-06-02,3,251,200.83,Running Shoes,Sports,Central,Social Media,
+ORD-00291,2025-12-15,2,2197,1325.79,Smart Watch,Electronics,South,Outlet,Kumar
+ORD-00292,2025-12-04,5,1939,1060.97,Smart Watch,Electronics,South,Store,Aisyah
+ORD-00293,2025-07-13,4,350,302.75,Yoga Mat,Sports,North,Social Media,
+ORD-00294,2025-11-06,1,2219,1804.46,Smart Watch,Electronics,South,Online,
+ORD-00295,2025-06-12,4,498,404.12,Yoga Mat,Sports,Central,Online,
+ORD-00296,2025-07-27,4,499,389.44,Yoga Mat,Sports,Central,Social Media,
+ORD-00297,2025-06-18,4,358,180.88,Yoga Mat,Sports,South,Outlet,Kumar
+ORD-00298,2025-06-10,1,464,304.62,Running Shoes,Sports,South,Outlet,Mei Ling
+ORD-00299,2025-03-09,3,2649,1786.87,Wireless Headset,Electronics,North,Store,Kumar
+ORD-00300,2025-10-16,5,1716,1023.75,Standing Desk,Furniture,North,Store,Mei Ling
+ORD-00301,2025-10-04,2,1242,744.32,Coffee Machine,Appliances,North,Store,Aisyah
+ORD-00302,2025-10-31,1,1411,1091.88,Office Chair,Furniture,Central,Online,
+ORD-00303,2025-05-15,4,1068,948.8,Coffee Machine,Appliances,Central,Online,
+ORD-00304,2025-07-14,1,507,259.29,Running Shoes,Sports,North,Outlet,Mei Ling
+ORD-00305,2025-05-08,4,1450,953.27,Air Fryer,Appliances,South,Outlet,Mei Ling
+ORD-00306,2025-02-02,2,1004,533.4,Office Chair,Furniture,Central,Outlet,Mei Ling
+ORD-00307,2025-06-25,4,349,291.17,Yoga Mat,Sports,Central,Social Media,
+ORD-00308,2025-01-22,5,1489,847.94,Standing Desk,Furniture,North,Store,Daniel
+ORD-00309,2025-08-26,2,242,213.52,Yoga Mat,Sports,Central,Social Media,
+ORD-00310,2025-06-07,5,483,407.49,Yoga Mat,Sports,Central,Social Media,
+ORD-00311,2025-02-07,5,820,695.46,Standing Desk,Furniture,East,Online,
+ORD-00312,2025-08-18,2,470,326.37,Running Shoes,Sports,North,Store,Aisyah
+ORD-00313,2025-12-31,4,1644,1058.74,Wireless Headset,Electronics,South,Outlet,Daniel
+ORD-00314,2025-02-20,2,1126,680.87,Office Chair,Furniture,South,Outlet,Daniel
+ORD-00315,2025-09-21,5,1772,909.98,Smart Watch,Electronics,South,Outlet,Daniel
+ORD-00316,2025-10-10,1,1765,1181.46,Standing Desk,Furniture,South,Outlet,Daniel
+ORD-00317,2025-01-27,2,611,387.25,Air Fryer,Appliances,South,Outlet,Aisyah
+ORD-00318,2025-08-14,2,266,221.26,Yoga Mat,Sports,North,Social Media,
+ORD-00319,2025-10-04,4,1203,790.68,Coffee Machine,Appliances,South,Outlet,Aisyah
+ORD-00320,2025-10-13,5,1731,1494.74,Wireless Headset,Electronics,Central,Social Media,
+ORD-00321,2025-04-07,5,1427,781.65,Standing Desk,Furniture,North,Store,Aisyah
+ORD-00322,2025-10-11,1,857,714.48,Office Chair,Furniture,Central,Online,
+ORD-00323,2025-11-13,2,2983,1788.49,Smart Watch,Electronics,North,Store,Aisyah
+ORD-00324,2025-10-31,4,526,344.59,Yoga Mat,Sports,North,Store,Kumar
+ORD-00325,2025-05-27,3,1978,1026.2,Smart Watch,Electronics,North,Store,Daniel
+ORD-00326,2025-01-04,4,1675,942.14,Wireless Headset,Electronics,South,Outlet,Kumar
+ORD-00327,2025-02-04,1,309,164.26,Yoga Mat,Sports,North,Store,Aisyah
+ORD-00328,2025-07-11,4,435,292.07,Running Shoes,Sports,East,Outlet,Aisyah
+ORD-00329,2025-02-18,3,516,319.73,Yoga Mat,Sports,South,Outlet,Mei Ling
+ORD-00330,2025-01-17,5,2127,1735.74,Smart Watch,Electronics,South,Social Media,
+ORD-00331,2025-06-21,3,494,407.94,Running Shoes,Sports,Central,Social Media,
+ORD-00332,2025-08-08,1,120,77.4,Yoga Mat,Sports,South,Outlet,Mei Ling
+ORD-00333,2025-06-07,2,322,203.26,Running Shoes,Sports,South,Outlet,Aisyah
+ORD-00334,2025-02-15,3,930,598.8,Standing Desk,Furniture,North,Store,Daniel
+ORD-00335,2025-01-06,2,326,253.66,Running Shoes,Sports,Central,Social Media,
+ORD-00336,2025-04-09,5,159,89.5,Running Shoes,Sports,North,Store,Aisyah
+ORD-00337,2025-08-21,3,463,260.58,Yoga Mat,Sports,North,Store,Kumar
+ORD-00338,2025-02-06,2,1087,900.92,Air Fryer,Appliances,East,Online,
+ORD-00339,2025-10-07,5,1355,791.35,Smart Watch,Electronics,South,Outlet,Aisyah
+ORD-00340,2025-12-15,2,1240,1069.28,Smart Watch,Electronics,Central,Social Media,
+ORD-00341,2025-10-29,1,1999,1294.58,Office Chair,Furniture,North,Store,Kumar
+ORD-00342,2025-06-30,4,446,279.57,Running Shoes,Sports,North,Store,Mei Ling
+ORD-00343,2025-04-05,4,2092,1177.76,Wireless Headset,Electronics,South,Store,Aisyah
+ORD-00344,2025-04-09,4,1253,982.45,Standing Desk,Furniture,Central,Social Media,
+ORD-00345,2025-07-07,3,402,225.55,Running Shoes,Sports,South,Outlet,Kumar
+ORD-00346,2025-04-26,5,801,713.49,Air Fryer,Appliances,Central,Social Media,
+ORD-00347,2025-07-10,4,454,232.37,Running Shoes,Sports,South,Outlet,Aisyah
+ORD-00348,2025-09-10,2,750,625.55,Coffee Machine,Appliances,Central,Social Media,
+ORD-00349,2025-06-10,3,137,107.41,Yoga Mat,Sports,South,Online,
+ORD-00350,2025-09-13,5,1501,1345.68,Office Chair,Furniture,East,Online,
+ORD-00351,2025-11-19,3,1795,907.26,Wireless Headset,Electronics,South,Outlet,Aisyah
+ORD-00352,2025-05-08,1,1282,820.3,Smart Watch,Electronics,South,Outlet,Daniel
+ORD-00353,2025-01-18,4,305,196.83,Running Shoes,Sports,North,Store,Kumar
+ORD-00354,2025-10-08,3,1432,1261.47,Office Chair,Furniture,Central,Social Media,
+ORD-00355,2025-08-11,5,385,291.41,Running Shoes,Sports,North,Social Media,
+ORD-00356,2025-02-23,1,2599,1610.53,Wireless Headset,Electronics,South,Outlet,Kumar
+ORD-00357,2025-02-27,3,140,71.35,Yoga Mat,Sports,South,Outlet,Mei Ling
+ORD-00358,2025-11-19,4,2187,1352.98,Smart Watch,Electronics,North,Store,Daniel
+ORD-00359,2025-12-26,1,2855,2368.79,Wireless Headset,Electronics,Central,Online,
+ORD-00360,2025-06-23,1,366,255.87,Yoga Mat,Sports,South,Outlet,Mei Ling
+ORD-00361,2025-10-07,2,824,720.76,Coffee Machine,Appliances,Central,Social Media,
+ORD-00362,2025-04-24,3,2907,2194.49,Wireless Headset,Electronics,Central,Social Media,
+ORD-00363,2025-10-15,3,1281,786.99,Standing Desk,Furniture,South,Outlet,Kumar
+ORD-00364,2025-12-08,5,1542,1263.92,Smart Watch,Electronics,Central,Online,
+ORD-00365,2025-05-31,1,192,102.55,Yoga Mat,Sports,South,Outlet,Daniel
+ORD-00366,2025-05-07,5,1304,1024.44,Office Chair,Furniture,Central,Online,
+ORD-00367,2025-06-04,4,175,144.05,Yoga Mat,Sports,Central,Online,
+ORD-00368,2025-09-30,4,538,482.9,Running Shoes,Sports,Central,Online,
+ORD-00369,2025-04-14,1,1279,651.18,Air Fryer,Appliances,North,Store,Mei Ling
+ORD-00370,2025-10-26,3,540,431.84,Running Shoes,Sports,Central,Social Media,
+ORD-00371,2025-09-03,1,2066,1148.98,Wireless Headset,Electronics,North,Outlet,Kumar
+ORD-00372,2025-06-25,1,148,74.23,Running Shoes,Sports,North,Store,Aisyah
+ORD-00373,2025-02-08,3,1691,1002.04,Standing Desk,Furniture,North,Store,Mei Ling
+ORD-00374,2025-06-19,5,462,349.58,Running Shoes,Sports,Central,Social Media,
+ORD-00375,2025-09-04,1,1052,806.96,Air Fryer,Appliances,Central,Online,
+ORD-00376,2025-01-26,3,2794,1672.79,Smart Watch,Electronics,North,Store,Aisyah
+ORD-00377,2025-12-21,3,2717,1507.79,Wireless Headset,Electronics,South,Store,Daniel
+ORD-00378,2025-11-02,1,2391,2118.76,Wireless Headset,Electronics,Central,Social Media,
+ORD-00379,2025-01-13,5,1244,1086.72,Standing Desk,Furniture,Central,Online,
+ORD-00380,2025-11-12,4,2473,1855.53,Wireless Headset,Electronics,Central,Social Media,
+ORD-00381,2025-11-09,5,1630,1099.14,Smart Watch,Electronics,South,Outlet,Mei Ling
+ORD-00382,2025-02-05,2,1172,995.5,Air Fryer,Appliances,South,Social Media,
+ORD-00383,2025-06-22,5,183,161.96,Yoga Mat,Sports,Central,Social Media,
+ORD-00384,2025-01-20,4,540,314.57,Coffee Machine,Appliances,South,Outlet,Aisyah
+ORD-00385,2025-11-17,5,1304,806.83,Smart Watch,Electronics,North,Store,Kumar
+ORD-00386,2025-09-21,2,217,113.52,Yoga Mat,Sports,North,Store,Aisyah
+ORD-00387,2025-05-22,4,953,617.73,Air Fryer,Appliances,South,Outlet,Aisyah
+ORD-00388,2025-05-23,5,2901,1532.97,Smart Watch,Electronics,North,Store,Mei Ling
+ORD-00389,2025-04-02,1,420,217.09,Yoga Mat,Sports,North,Store,Aisyah
+ORD-00390,2025-12-20,2,2580,1467.07,Smart Watch,Electronics,North,Store,Mei Ling
+ORD-00391,2025-11-18,1,2517,2050.07,Wireless Headset,Electronics,East,Online,
+ORD-00392,2025-10-15,3,572,502.94,Air Fryer,Appliances,Central,Social Media,
+ORD-00393,2025-08-03,4,271,240.51,Running Shoes,Sports,Central,Social Media,
+ORD-00394,2025-12-08,3,1759,1127.73,Smart Watch,Electronics,North,Store,Daniel
+ORD-00395,2025-02-20,1,1167,988.29,Air Fryer,Appliances,Central,Social Media,
+ORD-00396,2025-06-02,5,146,77.51,Yoga Mat,Sports,North,Store,Kumar
+ORD-00397,2025-07-05,5,518,294.29,Running Shoes,Sports,South,Outlet,Kumar
+ORD-00398,2025-03-04,3,1325,1128.33,Smart Watch,Electronics,Central,Social Media,
+ORD-00399,2025-07-09,5,215,179.96,Yoga Mat,Sports,Central,Online,
+ORD-00400,2025-05-05,1,1425,1277.68,Air Fryer,Appliances,Central,Online,
+ORD-00401,2025-05-30,3,1271,960.68,Air Fryer,Appliances,Central,Social Media,
+ORD-00402,2025-11-10,3,1647,974.54,Wireless Headset,Electronics,North,Store,Aisyah
+ORD-00403,2025-02-27,2,624,431.3,Coffee Machine,Appliances,North,Store,Kumar
+ORD-00404,2025-12-08,5,2258,1578.28,Wireless Headset,Electronics,South,Outlet,Aisyah
+ORD-00405,2025-11-01,1,1568,1085.41,Smart Watch,Electronics,North,Store,Aisyah
+ORD-00406,2025-06-29,4,167,149.8,Yoga Mat,Sports,Central,Online,
+ORD-00407,2025-06-19,1,441,347.08,Yoga Mat,Sports,East,Social Media,
+ORD-00408,2025-11-22,3,2098,1591.64,Wireless Headset,Electronics,North,Online,
+ORD-00409,2025-09-28,4,638,388.52,Coffee Machine,Appliances,South,Outlet,Aisyah
+ORD-00410,2025-02-23,1,2827,1875.29,Wireless Headset,Electronics,South,Outlet,Daniel
+ORD-00411,2025-04-11,4,198,174.65,Running Shoes,Sports,Central,Online,
+ORD-00412,2025-09-21,1,1561,1008.66,Office Chair,Furniture,South,Outlet,Aisyah
+ORD-00413,2025-02-22,4,263,233.03,Running Shoes,Sports,Central,Online,
+ORD-00414,2025-03-01,3,272,160.94,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00415,2025-04-18,5,1194,610.79,Standing Desk,Furniture,North,Store,Kumar
+ORD-00416,2025-01-05,4,169,89.53,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00417,2025-04-13,3,407,273.79,Yoga Mat,Sports,South,Outlet,Mei Ling
+ORD-00418,2025-07-15,2,516,430.55,Yoga Mat,Sports,North,Social Media,
+ORD-00419,2025-09-19,3,1260,1054.11,Coffee Machine,Appliances,Central,Social Media,
+ORD-00420,2025-12-31,3,2173,1348.18,Smart Watch,Electronics,North,Store,Aisyah
+ORD-00421,2025-12-16,4,2102,1890.58,Wireless Headset,Electronics,Central,Online,
+ORD-00422,2025-02-16,4,1380,936.49,Coffee Machine,Appliances,North,Store,Daniel
+ORD-00423,2025-12-21,3,2798,2506.25,Smart Watch,Electronics,Central,Online,
+ORD-00424,2025-11-07,5,1486,1019.18,Smart Watch,Electronics,Central,Outlet,Aisyah
+ORD-00425,2025-11-04,3,2789,1561.5,Smart Watch,Electronics,North,Store,Daniel
+ORD-00426,2025-05-24,4,156,135.57,Running Shoes,Sports,South,Social Media,
+ORD-00427,2025-09-26,3,1218,929.91,Wireless Headset,Electronics,Central,Online,
+ORD-00428,2025-05-04,3,1048,538.47,Air Fryer,Appliances,South,Outlet,Daniel
+ORD-00429,2025-04-16,5,2967,2518.33,Wireless Headset,Electronics,Central,Social Media,
+ORD-00430,2025-06-07,1,290,150.14,Running Shoes,Sports,South,Outlet,Mei Ling
+ORD-00431,2025-05-27,1,483,307.9,Yoga Mat,Sports,North,Store,Aisyah
+ORD-00432,2025-05-25,3,2578,2299.97,Wireless Headset,Electronics,Central,Online,
+ORD-00433,2025-04-30,2,457,363.29,Running Shoes,Sports,Central,Social Media,
+ORD-00434,2025-11-15,1,1574,1347.44,Wireless Headset,Electronics,Central,Online,
+ORD-00435,2025-10-02,4,1249,791.08,Standing Desk,Furniture,North,Store,Mei Ling
+ORD-00436,2025-04-02,4,2513,1995.01,Smart Watch,Electronics,Central,Social Media,
+ORD-00437,2025-02-27,3,2853,1907.08,Wireless Headset,Electronics,North,Store,Daniel
+ORD-00438,2025-12-12,1,2456,1921.07,Wireless Headset,Electronics,Central,Online,
+ORD-00439,2025-08-17,3,436,374.07,Yoga Mat,Sports,Central,Social Media,
+ORD-00440,2025-04-27,2,1459,800.1,Office Chair,Furniture,South,Outlet,Aisyah
+ORD-00441,2025-11-14,4,2211,1841.49,Smart Watch,Electronics,Central,Online,
+ORD-00442,2025-10-06,4,363,201.2,Running Shoes,Sports,Central,Outlet,Kumar
+ORD-00443,2025-05-07,2,1138,630.8,Coffee Machine,Appliances,South,Outlet,Kumar
+ORD-00444,2025-05-09,1,2814,2130.28,Smart Watch,Electronics,Central,Online,
+ORD-00445,2025-02-27,1,1317,988.5,Air Fryer,Appliances,Central,Social Media,
+ORD-00446,2025-05-02,5,1331,913.3,Air Fryer,Appliances,South,Outlet,Daniel
+ORD-00447,2025-01-01,1,261,208.02,Yoga Mat,Sports,East,Social Media,
+ORD-00448,2025-08-27,4,182,161.34,Running Shoes,Sports,Central,Social Media,
+ORD-00449,2025-10-17,4,1890,1557.5,Wireless Headset,Electronics,Central,Online,
+ORD-00450,2025-04-06,1,1431,755.31,Standing Desk,Furniture,South,Store,Mei Ling
+ORD-00451,2025-05-06,5,516,408.55,Yoga Mat,Sports,Central,Online,
+ORD-00452,2025-04-28,3,1292,1021.13,Coffee Machine,Appliances,Central,Online,
+ORD-00453,2025-02-17,4,1412,1164.6,Air Fryer,Appliances,Central,Social Media,
+ORD-00454,2025-03-30,4,460,234.82,Running Shoes,Sports,East,Outlet,Kumar
+ORD-00455,2025-08-25,1,496,289.25,Running Shoes,Sports,North,Store,Mei Ling
+ORD-00456,2025-09-29,2,828,679.66,Air Fryer,Appliances,South,Online,
+ORD-00457,2025-07-08,1,272,205.47,Yoga Mat,Sports,Central,Online,
+ORD-00458,2025-07-11,1,391,336.57,Yoga Mat,Sports,Central,Online,
+ORD-00459,2025-03-10,4,648,416.43,Air Fryer,Appliances,South,Outlet,Kumar
+ORD-00460,2025-10-05,1,112,57.3,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00461,2025-12-15,2,1764,1124.74,Wireless Headset,Electronics,South,Outlet,Kumar
+ORD-00462,2025-09-04,5,357,268.78,Yoga Mat,Sports,Central,Social Media,
+ORD-00463,2025-03-17,4,508,437.1,Running Shoes,Sports,Central,Online,
+ORD-00464,2025-06-03,1,128,75.88,Running Shoes,Sports,South,Outlet,Mei Ling
+ORD-00465,2025-05-24,4,729,409.97,Air Fryer,Appliances,North,Store,Daniel
+ORD-00466,2025-03-27,4,1983,1777.57,Wireless Headset,Electronics,Central,Social Media,
+ORD-00467,2025-07-04,3,332,254.99,Running Shoes,Sports,Central,Online,
+ORD-00468,2025-10-12,5,554,434.05,Air Fryer,Appliances,Central,Online,
+ORD-00469,2025-08-08,1,307,171.91,Running Shoes,Sports,South,Outlet,Kumar
+ORD-00470,2025-03-10,4,806,491.17,Air Fryer,Appliances,North,Store,Aisyah
+ORD-00471,2025-02-16,1,1528,827.29,Office Chair,Furniture,North,Store,Mei Ling
+ORD-00472,2025-04-04,3,694,378.68,Air Fryer,Appliances,North,Store,Daniel
+ORD-00473,2025-08-26,2,178,135.09,Running Shoes,Sports,Central,Online,
+ORD-00474,2025-07-23,4,203,139.77,Yoga Mat,Sports,North,Store,Aisyah
+ORD-00475,2025-08-06,5,430,297.8,Yoga Mat,Sports,South,Outlet,Mei Ling
+ORD-00476,2025-12-07,4,1477,952.85,Wireless Headset,Electronics,South,Outlet,Daniel
+ORD-00477,2025-02-08,2,2664,2123.93,Smart Watch,Electronics,Central,Online,
+ORD-00478,2025-04-10,3,555,469.19,Yoga Mat,Sports,Central,Social Media,
+ORD-00479,2025-10-16,4,1690,959.02,Smart Watch,Electronics,South,Outlet,Kumar
+ORD-00480,2025-09-11,4,658,419.8,Air Fryer,Appliances,South,Outlet,Kumar
+ORD-00481,2025-08-10,2,407,222.24,Yoga Mat,Sports,North,Store,Daniel
+ORD-00482,2025-12-23,1,2145,1686.58,Wireless Headset,Electronics,North,Social Media,
+ORD-00483,2025-01-23,5,552,465.41,Yoga Mat,Sports,Central,Social Media,
+ORD-00484,2025-09-07,2,496,293.49,Yoga Mat,Sports,South,Outlet,Daniel
+ORD-00485,2025-01-10,3,2189,1936.5,Smart Watch,Electronics,Central,Social Media,
+ORD-00486,2025-09-03,4,149,99.94,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00487,2025-11-21,4,2715,2239.16,Wireless Headset,Electronics,Central,Social Media,
+ORD-00488,2025-04-10,3,2313,1368.82,Smart Watch,Electronics,North,Store,Kumar
+ORD-00489,2025-10-17,2,1110,834.67,Office Chair,Furniture,North,Social Media,
+ORD-00490,2025-06-29,4,158,90.22,Yoga Mat,Sports,North,Store,Aisyah
+ORD-00491,2025-08-11,1,549,380.68,Running Shoes,Sports,North,Store,Kumar
+ORD-00492,2025-09-07,5,807,642.78,Office Chair,Furniture,Central,Online,
+ORD-00493,2025-05-27,1,1092,976.28,Air Fryer,Appliances,South,Online,
+ORD-00494,2025-04-06,2,543,475.29,Coffee Machine,Appliances,Central,Social Media,
+ORD-00495,2025-09-14,4,1979,1240.58,Office Chair,Furniture,North,Store,Aisyah
+ORD-00496,2025-11-21,2,2987,1928.92,Wireless Headset,Electronics,North,Store,Daniel
+ORD-00497,2025-01-04,3,1412,819.74,Office Chair,Furniture,South,Outlet,Kumar
+ORD-00498,2025-01-16,4,2876,1604.17,Wireless Headset,Electronics,South,Outlet,Aisyah
+ORD-00499,2025-10-07,3,1745,1507.94,Smart Watch,Electronics,Central,Social Media,
+ORD-00500,2025-12-02,1,2179,1489.75,Wireless Headset,Electronics,South,Outlet,Mei Ling
+ORD-00501,2025-09-04,1,2582,1803.5,Wireless Headset,Electronics,North,Store,Kumar
+ORD-00502,2025-09-15,5,581,388.95,Coffee Machine,Appliances,North,Store,Mei Ling
+ORD-00503,2025-06-09,1,503,261.74,Yoga Mat,Sports,North,Store,Aisyah
+ORD-00504,2025-12-06,2,1514,767.91,Wireless Headset,Electronics,North,Store,Mei Ling
+ORD-00505,2025-06-01,1,524,467.71,Yoga Mat,Sports,Central,Online,
+ORD-00506,2025-06-27,5,534,312.66,Yoga Mat,Sports,South,Store,Mei Ling
+ORD-00507,2025-06-12,4,287,168.19,Running Shoes,Sports,South,Outlet,Aisyah
+ORD-00508,2025-02-02,2,961,839.41,Air Fryer,Appliances,Central,Online,
+ORD-00509,2025-06-28,4,208,128.59,Yoga Mat,Sports,North,Store,Daniel
+ORD-00510,2025-04-11,1,2591,1956.0,Smart Watch,Electronics,Central,Social Media,
+ORD-00511,2025-09-25,1,370,326.31,Running Shoes,Sports,Central,Online,
+ORD-00512,2025-11-19,1,1906,1637.28,Smart Watch,Electronics,South,Social Media,
+ORD-00513,2025-03-06,5,1335,805.18,Office Chair,Furniture,North,Store,Mei Ling
+ORD-00514,2025-06-17,1,464,350.61,Yoga Mat,Sports,East,Online,
+ORD-00515,2025-11-26,5,1880,1427.3,Wireless Headset,Electronics,East,Social Media,
+ORD-00516,2025-02-12,5,1479,829.48,Standing Desk,Furniture,North,Store,Aisyah
+ORD-00517,2025-02-13,5,1411,1212.62,Wireless Headset,Electronics,Central,Social Media,
+ORD-00518,2025-10-12,4,1010,654.86,Coffee Machine,Appliances,North,Store,Aisyah
+ORD-00519,2025-01-12,5,289,252.21,Running Shoes,Sports,Central,Social Media,
+ORD-00520,2025-04-05,3,878,580.66,Air Fryer,Appliances,South,Outlet,Kumar
+ORD-00521,2025-10-29,5,1509,869.39,Wireless Headset,Electronics,North,Store,Daniel
+ORD-00522,2025-09-10,2,942,618.07,Air Fryer,Appliances,North,Store,Aisyah
+ORD-00523,2025-08-30,1,372,230.76,Yoga Mat,Sports,North,Store,Kumar
+ORD-00524,2025-02-04,4,2334,1946.59,Smart Watch,Electronics,Central,Online,
+ORD-00525,2025-08-03,1,180,160.19,Yoga Mat,Sports,Central,Social Media,
+ORD-00526,2025-12-03,2,1303,860.9,Smart Watch,Electronics,South,Outlet,Daniel
+ORD-00527,2025-03-31,2,412,228.58,Running Shoes,Sports,North,Store,Aisyah
+ORD-00528,2025-09-21,3,1880,1470.18,Wireless Headset,Electronics,Central,Social Media,
+ORD-00529,2025-04-03,4,436,279.14,Yoga Mat,Sports,North,Store,Daniel
+ORD-00530,2025-03-31,4,908,748.59,Office Chair,Furniture,Central,Social Media,
+ORD-00531,2025-04-25,3,1923,1654.1,Office Chair,Furniture,Central,Social Media,
+ORD-00532,2025-04-15,2,542,284.48,Air Fryer,Appliances,North,Store,Mei Ling
+ORD-00533,2025-07-15,2,346,189.26,Yoga Mat,Sports,North,Store,Aisyah
+ORD-00534,2025-11-10,3,2124,1901.1,Smart Watch,Electronics,Central,Online,
+ORD-00535,2025-04-24,3,489,256.09,Running Shoes,Sports,North,Store,Aisyah
+ORD-00536,2025-03-16,3,478,421.55,Yoga Mat,Sports,Central,Online,
+ORD-00537,2025-08-05,1,527,294.07,Running Shoes,Sports,North,Store,Daniel
+ORD-00538,2025-10-04,3,305,257.34,Running Shoes,Sports,Central,Online,
+ORD-00539,2025-09-06,3,2849,1431.43,Wireless Headset,Electronics,North,Store,Aisyah
+ORD-00540,2025-06-13,4,152,120.99,Running Shoes,Sports,Central,Social Media,
+ORD-00541,2025-12-23,3,1339,1151.41,Smart Watch,Electronics,Central,Online,
+ORD-00542,2025-07-11,5,132,73.54,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00543,2025-08-15,1,478,244.41,Running Shoes,Sports,South,Outlet,Daniel
+ORD-00544,2025-06-26,4,281,181.72,Yoga Mat,Sports,East,Outlet,Kumar
+ORD-00545,2025-04-09,3,1559,880.91,Office Chair,Furniture,North,Store,Kumar
+ORD-00546,2025-02-05,2,891,525.71,Air Fryer,Appliances,South,Outlet,Kumar
+ORD-00547,2025-04-06,2,157,120.42,Yoga Mat,Sports,Central,Online,
+ORD-00548,2025-06-01,1,318,192.05,Yoga Mat,Sports,North,Store,Daniel
+ORD-00549,2025-05-31,3,597,386.88,Coffee Machine,Appliances,South,Outlet,Daniel
+ORD-00550,2025-07-09,2,121,93.36,Yoga Mat,Sports,Central,Social Media,
+ORD-00551,2025-08-12,3,574,467.56,Yoga Mat,Sports,Central,Social Media,
+ORD-00552,2025-02-06,4,582,366.49,Running Shoes,Sports,South,Outlet,Daniel
+ORD-00553,2025-09-25,5,1334,1050.7,Coffee Machine,Appliances,Central,Online,
+ORD-00554,2025-07-02,2,147,90.66,Yoga Mat,Sports,South,Outlet,Daniel
+ORD-00555,2025-01-13,3,1882,1267.0,Standing Desk,Furniture,South,Outlet,Kumar
+ORD-00556,2025-10-06,1,1484,1249.29,Coffee Machine,Appliances,Central,Online,
+ORD-00557,2025-08-05,3,504,393.32,Running Shoes,Sports,Central,Online,
+ORD-00558,2025-12-21,4,1809,1467.5,Wireless Headset,Electronics,Central,Social Media,
+ORD-00559,2025-12-27,1,1500,912.6,Smart Watch,Electronics,South,Outlet,Aisyah
+ORD-00560,2025-10-13,3,1896,1475.62,Office Chair,Furniture,Central,Online,
+ORD-00561,2025-09-30,1,153,86.51,Running Shoes,Sports,South,Outlet,Mei Ling
+ORD-00562,2025-03-03,4,511,343.53,Yoga Mat,Sports,South,Outlet,Kumar
+ORD-00563,2025-03-25,4,572,429.78,Air Fryer,Appliances,Central,Online,
+ORD-00564,2025-08-05,4,269,172.21,Running Shoes,Sports,South,Outlet,Daniel
+ORD-00565,2025-12-08,5,2903,1960.96,Wireless Headset,Electronics,North,Outlet,Daniel
+ORD-00566,2025-07-06,4,324,175.89,Running Shoes,Sports,East,Outlet,Daniel
+ORD-00567,2025-01-19,5,1301,742.83,Coffee Machine,Appliances,Central,Store,Aisyah
+ORD-00568,2025-06-26,2,115,87.65,Yoga Mat,Sports,Central,Social Media,
+ORD-00569,2025-04-10,2,1438,987.25,Office Chair,Furniture,East,Store,Daniel
+ORD-00570,2025-08-21,5,457,393.67,Running Shoes,Sports,Central,Social Media,
+ORD-00571,2025-03-17,3,993,581.4,Coffee Machine,Appliances,South,Outlet,Aisyah
+ORD-00572,2025-09-22,5,868,497.96,Air Fryer,Appliances,South,Outlet,Daniel
+ORD-00573,2025-10-11,5,1367,795.96,Office Chair,Furniture,North,Store,Mei Ling
+ORD-00574,2025-07-25,2,329,192.64,Yoga Mat,Sports,North,Store,Aisyah
+ORD-00575,2025-08-11,4,453,271.81,Yoga Mat,Sports,South,Outlet,Daniel
+ORD-00576,2025-02-21,3,1571,913.58,Office Chair,Furniture,North,Store,Daniel
+ORD-00577,2025-12-05,3,2021,1547.7,Wireless Headset,Electronics,Central,Online,
+ORD-00578,2025-05-24,3,220,121.45,Yoga Mat,Sports,South,Outlet,Kumar
+ORD-00579,2025-03-10,5,1144,614.48,Coffee Machine,Appliances,North,Store,Aisyah
+ORD-00580,2025-04-09,5,1462,972.67,Coffee Machine,Appliances,South,Outlet,Daniel
+ORD-00581,2025-01-25,3,2002,1125.05,Wireless Headset,Electronics,South,Outlet,Mei Ling
+ORD-00582,2025-02-22,4,1245,981.35,Coffee Machine,Appliances,Central,Social Media,
+ORD-00583,2025-05-31,5,2542,1692.01,Smart Watch,Electronics,North,Store,Kumar
+ORD-00584,2025-05-24,5,676,374.71,Air Fryer,Appliances,North,Store,Daniel
+ORD-00585,2025-02-26,1,1628,994.18,Office Chair,Furniture,North,Store,Mei Ling
+ORD-00586,2025-02-08,3,924,608.82,Air Fryer,Appliances,North,Store,Mei Ling
+ORD-00587,2025-04-19,1,1270,740.29,Standing Desk,Furniture,South,Outlet,Aisyah
+ORD-00588,2025-06-30,1,145,83.66,Yoga Mat,Sports,North,Store,Kumar
+ORD-00589,2025-02-11,5,2624,2256.27,Smart Watch,Electronics,Central,Online,
+ORD-00590,2025-07-05,2,388,220.79,Running Shoes,Sports,North,Store,Daniel
+ORD-00591,2025-08-11,3,561,430.97,Running Shoes,Sports,Central,Social Media,
+ORD-00592,2025-05-02,4,1314,712.69,Smart Watch,Electronics,South,Outlet,Mei Ling
+ORD-00593,2025-05-13,3,1405,1110.15,Smart Watch,Electronics,East,Online,
+ORD-00594,2025-06-12,4,236,191.72,Yoga Mat,Sports,Central,Social Media,
+ORD-00595,2025-08-03,1,523,334.94,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00596,2025-08-09,1,484,303.12,Yoga Mat,Sports,South,Outlet,Mei Ling
+ORD-00597,2025-08-23,5,416,236.06,Yoga Mat,Sports,South,Outlet,Daniel
+ORD-00598,2025-11-27,2,1216,1051.5,Wireless Headset,Electronics,Central,Social Media,
+ORD-00599,2025-05-26,3,2230,1461.31,Smart Watch,Electronics,North,Store,Aisyah
+ORD-00600,2025-08-27,1,486,405.37,Running Shoes,Sports,East,Online,
+ORD-00601,2025-03-17,5,879,441.25,Coffee Machine,Appliances,North,Store,Daniel
+ORD-00602,2025-01-09,4,420,344.3,Running Shoes,Sports,Central,Social Media,
+ORD-00603,2025-03-15,1,332,201.3,Yoga Mat,Sports,East,Outlet,Aisyah
+ORD-00604,2025-09-10,5,1458,986.35,Office Chair,Furniture,South,Outlet,Kumar
+ORD-00605,2025-08-18,3,156,135.8,Running Shoes,Sports,Central,Social Media,
+ORD-00606,2025-01-07,3,1359,690.91,Office Chair,Furniture,South,Outlet,Daniel
+ORD-00607,2025-06-23,4,391,261.81,Running Shoes,Sports,South,Outlet,Kumar
+ORD-00608,2025-05-21,4,181,104.09,Yoga Mat,Sports,South,Outlet,Mei Ling
+ORD-00609,2025-06-17,5,320,195.78,Yoga Mat,Sports,South,Outlet,Daniel
+ORD-00610,2025-06-19,5,305,245.79,Yoga Mat,Sports,Central,Social Media,
+ORD-00611,2025-10-10,3,1373,1178.6,Standing Desk,Furniture,Central,Online,
+ORD-00612,2025-05-02,2,446,256.83,Running Shoes,Sports,North,Store,Aisyah
+ORD-00613,2025-07-13,2,447,377.62,Running Shoes,Sports,Central,Online,
+ORD-00614,2025-01-05,2,1516,934.16,Wireless Headset,Electronics,North,Store,Aisyah
+ORD-00615,2025-01-29,1,1113,723.84,Standing Desk,Furniture,South,Outlet,Mei Ling
+ORD-00616,2025-06-14,2,291,249.38,Yoga Mat,Sports,Central,Online,
+ORD-00617,2025-12-05,3,1782,1574.51,Wireless Headset,Electronics,Central,Social Media,
+ORD-00618,2025-05-16,5,1200,745.3,Standing Desk,Furniture,South,Outlet,Kumar
+ORD-00619,2025-12-31,5,2799,2342.26,Smart Watch,Electronics,Central,Online,
+ORD-00620,2025-11-17,2,2043,1104.14,Wireless Headset,Electronics,North,Store,Kumar
+ORD-00621,2025-12-08,3,2263,1524.65,Wireless Headset,Electronics,North,Store,Daniel
+ORD-00622,2025-05-25,2,435,224.2,Running Shoes,Sports,North,Store,Aisyah
+ORD-00623,2025-11-23,2,2401,1416.96,Smart Watch,Electronics,East,Store,Mei Ling
+ORD-00624,2025-08-05,1,338,285.78,Yoga Mat,Sports,Central,Social Media,
+ORD-00625,2025-10-28,3,860,476.36,Office Chair,Furniture,South,Outlet,Mei Ling
+ORD-00626,2025-05-12,4,1722,952.14,Standing Desk,Furniture,South,Outlet,Kumar
+ORD-00627,2025-10-19,5,1187,826.94,Office Chair,Furniture,South,Outlet,Aisyah
+ORD-00628,2025-03-11,4,127,69.02,Running Shoes,Sports,North,Outlet,Daniel
+ORD-00629,2025-09-09,5,569,501.79,Coffee Machine,Appliances,Central,Online,
+ORD-00630,2025-10-02,3,401,253.98,Yoga Mat,Sports,South,Outlet,Aisyah
+ORD-00631,2025-12-30,1,1255,1079.85,Wireless Headset,Electronics,Central,Social Media,
+ORD-00632,2025-07-01,5,281,240.54,Running Shoes,Sports,North,Social Media,
+ORD-00633,2025-06-16,3,386,335.9,Yoga Mat,Sports,Central,Social Media,
+ORD-00634,2025-04-01,5,1358,1134.85,Coffee Machine,Appliances,Central,Social Media,
+ORD-00635,2025-07-21,5,286,191.57,Running Shoes,Sports,Central,Outlet,Daniel
+ORD-00636,2025-12-12,3,1707,1283.93,Wireless Headset,Electronics,Central,Online,
+ORD-00637,2025-01-19,2,855,450.18,Air Fryer,Appliances,South,Outlet,Mei Ling
+ORD-00638,2025-02-08,3,296,199.17,Yoga Mat,Sports,North,Store,Kumar
+ORD-00639,2025-05-06,2,567,479.54,Coffee Machine,Appliances,Central,Social Media,
+ORD-00640,2025-06-22,3,526,440.17,Yoga Mat,Sports,Central,Social Media,
+ORD-00641,2025-05-21,3,1121,637.16,Air Fryer,Appliances,South,Store,Mei Ling
+ORD-00642,2025-08-30,5,248,172.66,Running Shoes,Sports,North,Store,Daniel
+ORD-00643,2025-08-08,4,567,505.19,Running Shoes,Sports,Central,Social Media,
+ORD-00644,2025-05-06,3,1413,1203.35,Coffee Machine,Appliances,Central,Social Media,
+ORD-00645,2025-02-27,2,1270,1072.83,Standing Desk,Furniture,Central,Online,
+ORD-00646,2025-05-28,1,557,340.29,Yoga Mat,Sports,North,Store,Kumar
+ORD-00647,2025-11-13,1,2287,1225.54,Smart Watch,Electronics,South,Outlet,Mei Ling
+ORD-00648,2025-12-27,4,1605,1107.05,Smart Watch,Electronics,North,Store,Kumar
+ORD-00649,2025-01-01,2,1233,1037.51,Office Chair,Furniture,Central,Social Media,
+ORD-00650,2025-12-14,3,1406,1199.11,Wireless Headset,Electronics,Central,Online,
+ORD-00651,2025-07-09,3,112,86.58,Running Shoes,Sports,Central,Online,
+ORD-00652,2025-07-10,5,391,297.86,Yoga Mat,Sports,Central,Online,
+ORD-00653,2025-11-08,3,2075,1065.11,Wireless Headset,Electronics,South,Outlet,Aisyah
+ORD-00654,2025-04-27,2,1439,790.38,Standing Desk,Furniture,North,Store,Kumar
+ORD-00655,2025-05-14,3,1718,1163.46,Wireless Headset,Electronics,North,Store,Mei Ling
+ORD-00656,2025-02-27,3,172,154.73,Yoga Mat,Sports,Central,Social Media,
+ORD-00657,2025-02-13,4,2457,2201.49,Wireless Headset,Electronics,Central,Social Media,
+ORD-00658,2025-06-22,5,479,364.07,Yoga Mat,Sports,Central,Social Media,
+ORD-00659,2025-06-09,4,449,357.36,Running Shoes,Sports,Central,Online,
+ORD-00660,2025-06-22,3,157,123.15,Running Shoes,Sports,Central,Social Media,
+ORD-00661,2025-11-13,4,1249,968.13,Smart Watch,Electronics,Central,Social Media,
+ORD-00662,2025-10-30,5,2307,1826.58,Smart Watch,Electronics,Central,Social Media,
+ORD-00663,2025-05-29,3,192,104.93,Yoga Mat,Sports,North,Store,Daniel
+ORD-00664,2025-03-21,4,1039,593.0,Coffee Machine,Appliances,South,Outlet,Aisyah
+ORD-00665,2025-08-01,5,185,163.68,Running Shoes,Sports,Central,Social Media,
+ORD-00666,2025-07-22,2,482,267.16,Yoga Mat,Sports,North,Store,Aisyah
+ORD-00667,2025-09-09,2,1230,812.74,Wireless Headset,Electronics,South,Outlet,Aisyah
+ORD-00668,2025-08-17,5,523,293.26,Yoga Mat,Sports,South,Outlet,Kumar
+ORD-00669,2025-06-13,3,346,310.58,Running Shoes,Sports,Central,Social Media,
+ORD-00670,2025-08-15,2,283,162.09,Running Shoes,Sports,East,Store,Aisyah
+ORD-00671,2025-05-27,5,2312,1614.6,Smart Watch,Electronics,South,Outlet,Kumar
+ORD-00672,2025-01-20,1,2622,2178.1,Wireless Headset,Electronics,Central,Social Media,
+ORD-00673,2025-02-16,5,2048,1176.15,Wireless Headset,Electronics,North,Outlet,Aisyah
+ORD-00674,2025-08-21,3,307,260.46,Yoga Mat,Sports,Central,Online,
+ORD-00675,2025-11-01,4,2651,1517.12,Smart Watch,Electronics,South,Outlet,Kumar
+ORD-00676,2025-01-14,3,538,344.16,Running Shoes,Sports,South,Outlet,Daniel
+ORD-00677,2025-05-23,3,1544,832.65,Smart Watch,Electronics,North,Store,Kumar
+ORD-00678,2025-01-01,1,2452,2019.08,Wireless Headset,Electronics,Central,Online,
+ORD-00679,2025-02-23,4,2774,2355.82,Smart Watch,Electronics,Central,Social Media,
+ORD-00680,2025-09-16,4,1237,980.76,Air Fryer,Appliances,Central,Social Media,
+ORD-00681,2025-05-24,5,171,98.19,Yoga Mat,Sports,North,Store,Kumar
+ORD-00682,2025-01-12,3,286,162.3,Running Shoes,Sports,North,Store,Mei Ling
+ORD-00683,2025-11-26,3,1548,842.27,Wireless Headset,Electronics,South,Outlet,Kumar
+ORD-00684,2025-08-12,5,487,243.56,Running Shoes,Sports,South,Outlet,Aisyah
+ORD-00685,2025-09-29,2,999,784.02,Coffee Machine,Appliances,Central,Online,
+ORD-00686,2025-12-24,4,1680,1334.08,Smart Watch,Electronics,Central,Online,
+ORD-00687,2025-06-05,2,273,229.73,Running Shoes,Sports,Central,Social Media,
+ORD-00688,2025-01-08,3,368,301.84,Yoga Mat,Sports,Central,Social Media,
+ORD-00689,2025-05-02,1,1355,1103.64,Smart Watch,Electronics,Central,Online,
+ORD-00690,2025-12-14,1,2509,1443.08,Smart Watch,Electronics,North,Store,Mei Ling
+ORD-00691,2025-06-13,2,193,150.67,Running Shoes,Sports,Central,Social Media,
+ORD-00692,2025-03-31,1,2135,1267.48,Smart Watch,Electronics,North,Store,Kumar
+ORD-00693,2025-05-16,4,483,364.78,Running Shoes,Sports,Central,Social Media,
+ORD-00694,2025-07-05,1,466,247.98,Yoga Mat,Sports,South,Outlet,Daniel
+ORD-00695,2025-11-12,3,2321,1212.3,Wireless Headset,Electronics,South,Outlet,Daniel
+ORD-00696,2025-06-27,1,289,246.91,Running Shoes,Sports,Central,Social Media,
+ORD-00697,2025-01-28,3,470,405.43,Yoga Mat,Sports,Central,Online,
+ORD-00698,2025-08-08,3,515,429.24,Yoga Mat,Sports,Central,Social Media,
+ORD-00699,2025-12-23,5,1623,914.74,Smart Watch,Electronics,South,Outlet,Kumar
+ORD-00700,2025-02-10,5,1321,1144.36,Coffee Machine,Appliances,East,Social Media,
+ORD-00701,2025-08-16,3,404,323.13,Yoga Mat,Sports,Central,Social Media,
+ORD-00702,2025-07-11,2,458,253.32,Running Shoes,Sports,South,Outlet,Kumar
+ORD-00703,2025-05-25,1,585,464.69,Yoga Mat,Sports,Central,Online,
+ORD-00704,2025-07-20,5,263,235.25,Yoga Mat,Sports,Central,Online,
+ORD-00705,2025-07-31,4,327,275.79,Yoga Mat,Sports,Central,Social Media,
+ORD-00706,2025-08-08,3,337,256.74,Yoga Mat,Sports,Central,Social Media,
+ORD-00707,2025-08-28,3,309,277.72,Running Shoes,Sports,Central,Social Media,
+ORD-00708,2025-02-15,1,571,460.16,Running Shoes,Sports,Central,Online,
+ORD-00709,2025-02-04,4,1722,917.07,Office Chair,Furniture,South,Outlet,Aisyah
+ORD-00710,2025-09-10,4,241,142.13,Yoga Mat,Sports,North,Outlet,Kumar
+ORD-00711,2025-03-23,2,2802,1771.94,Smart Watch,Electronics,South,Outlet,Mei Ling
+ORD-00712,2025-09-13,2,422,335.13,Yoga Mat,Sports,Central,Social Media,
+ORD-00713,2025-07-16,3,370,303.16,Running Shoes,Sports,Central,Online,
+ORD-00714,2025-10-30,1,450,257.11,Running Shoes,Sports,South,Outlet,Aisyah
+ORD-00715,2025-01-10,4,275,175.51,Yoga Mat,Sports,East,Outlet,Mei Ling
+ORD-00716,2025-11-08,1,2469,1532.65,Wireless Headset,Electronics,South,Outlet,Kumar
+ORD-00717,2025-10-13,4,2656,2284.79,Smart Watch,Electronics,Central,Online,
+ORD-00718,2025-08-30,1,242,215.98,Yoga Mat,Sports,Central,Online,
+ORD-00719,2025-09-08,4,571,298.81,Running Shoes,Sports,South,Outlet,Aisyah
+ORD-00720,2025-12-31,5,1269,993.23,Wireless Headset,Electronics,Central,Online,
+ORD-00721,2025-01-05,4,1329,896.55,Standing Desk,Furniture,North,Store,Mei Ling
+ORD-00722,2025-04-29,3,279,140.1,Yoga Mat,Sports,South,Outlet,Daniel
+ORD-00723,2025-10-16,3,504,421.61,Air Fryer,Appliances,East,Online,
+ORD-00724,2025-03-06,5,736,399.6,Coffee Machine,Appliances,North,Store,Aisyah
+ORD-00725,2025-05-26,1,2794,1788.0,Smart Watch,Electronics,South,Outlet,Daniel
+ORD-00726,2025-08-12,3,522,405.01,Yoga Mat,Sports,Central,Social Media,
+ORD-00727,2025-08-27,3,319,222.25,Running Shoes,Sports,North,Store,Kumar
+ORD-00728,2025-06-26,1,283,227.0,Yoga Mat,Sports,Central,Social Media,
+ORD-00729,2025-09-24,4,938,735.37,Air Fryer,Appliances,Central,Online,
+ORD-00730,2025-12-07,1,1960,1689.08,Wireless Headset,Electronics,Central,Social Media,
+ORD-00731,2025-10-09,3,2431,1240.68,Smart Watch,Electronics,South,Outlet,Daniel
+ORD-00732,2025-03-04,2,1456,832.35,Standing Desk,Furniture,North,Store,Daniel
+ORD-00733,2025-08-05,5,113,65.11,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00734,2025-12-08,5,1854,1039.46,Wireless Headset,Electronics,South,Outlet,Daniel
+ORD-00735,2025-11-11,3,2283,1176.46,Wireless Headset,Electronics,North,Store,Mei Ling
+ORD-00736,2025-10-10,1,119,93.71,Running Shoes,Sports,Central,Online,
+ORD-00737,2025-06-26,3,487,298.26,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00738,2025-04-08,5,2102,1266.37,Wireless Headset,Electronics,South,Outlet,Daniel
+ORD-00739,2025-04-15,3,918,578.02,Coffee Machine,Appliances,South,Outlet,Aisyah
+ORD-00740,2025-04-09,4,2835,1879.42,Smart Watch,Electronics,South,Outlet,Daniel
+ORD-00741,2025-11-07,5,1580,1413.06,Smart Watch,Electronics,Central,Social Media,
+ORD-00742,2025-01-06,3,1999,1701.9,Smart Watch,Electronics,Central,Social Media,
+ORD-00743,2025-07-16,5,423,258.57,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00744,2025-12-17,4,2413,1997.34,Wireless Headset,Electronics,Central,Social Media,
+ORD-00745,2025-05-13,2,1570,942.76,Office Chair,Furniture,South,Outlet,Kumar
+ORD-00746,2025-12-24,3,1358,906.19,Wireless Headset,Electronics,South,Outlet,Kumar
+ORD-00747,2025-09-16,4,1570,1244.78,Smart Watch,Electronics,Central,Online,
+ORD-00748,2025-01-23,2,1457,1263.43,Office Chair,Furniture,Central,Online,
+ORD-00749,2025-02-22,4,272,171.8,Running Shoes,Sports,North,Store,Daniel
+ORD-00750,2025-06-14,2,192,131.14,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00751,2025-07-21,2,328,223.14,Running Shoes,Sports,North,Store,Mei Ling
+ORD-00752,2025-03-24,3,605,518.44,Coffee Machine,Appliances,Central,Social Media,
+ORD-00753,2025-05-25,4,566,322.15,Yoga Mat,Sports,North,Store,Kumar
+ORD-00754,2025-03-26,3,2757,1525.13,Wireless Headset,Electronics,North,Store,Daniel
+ORD-00755,2025-03-19,3,369,235.28,Running Shoes,Sports,East,Outlet,Mei Ling
+ORD-00756,2025-01-01,1,301,187.99,Running Shoes,Sports,South,Outlet,Mei Ling
+ORD-00757,2025-02-20,5,314,255.15,Yoga Mat,Sports,Central,Online,
+ORD-00758,2025-06-22,4,124,107.83,Running Shoes,Sports,Central,Social Media,
+ORD-00759,2025-07-24,2,226,113.75,Running Shoes,Sports,North,Store,Daniel
+ORD-00760,2025-09-17,3,365,199.57,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00761,2025-10-15,3,2820,1581.8,Smart Watch,Electronics,North,Store,Kumar
+ORD-00762,2025-02-03,1,1075,736.69,Air Fryer,Appliances,North,Store,Aisyah
+ORD-00763,2025-12-14,2,2177,1338.4,Smart Watch,Electronics,North,Store,Mei Ling
+ORD-00764,2025-04-05,2,1682,1159.49,Smart Watch,Electronics,South,Outlet,Daniel
+ORD-00765,2025-03-13,1,930,472.49,Coffee Machine,Appliances,Central,Outlet,Kumar
+ORD-00766,2025-02-08,4,1257,644.06,Air Fryer,Appliances,Central,Outlet,Aisyah
+ORD-00767,2025-06-03,3,362,278.67,Running Shoes,Sports,Central,Social Media,
+ORD-00768,2025-09-07,4,142,123.66,Running Shoes,Sports,Central,Online,
+ORD-00769,2025-06-11,5,568,293.95,Running Shoes,Sports,South,Outlet,Aisyah
+ORD-00770,2025-04-28,2,1295,734.9,Air Fryer,Appliances,North,Store,Daniel
+ORD-00771,2025-09-16,4,1162,658.16,Air Fryer,Appliances,South,Store,Kumar
+ORD-00772,2025-11-02,5,2403,2064.49,Wireless Headset,Electronics,Central,Social Media,
+ORD-00773,2025-09-25,4,2654,2311.14,Wireless Headset,Electronics,North,Social Media,
+ORD-00774,2025-02-23,3,1811,1557.62,Standing Desk,Furniture,Central,Social Media,
+ORD-00775,2025-08-24,4,245,125.28,Running Shoes,Sports,South,Outlet,Mei Ling
+ORD-00776,2025-08-10,4,570,496.14,Yoga Mat,Sports,Central,Social Media,
+ORD-00777,2025-09-08,3,121,96.87,Running Shoes,Sports,Central,Online,
+ORD-00778,2025-11-09,4,2040,1118.14,Wireless Headset,Electronics,North,Store,Kumar
+ORD-00779,2025-04-22,1,787,410.12,Air Fryer,Appliances,North,Store,Mei Ling
+ORD-00780,2025-09-12,5,1086,560.82,Air Fryer,Appliances,North,Store,Aisyah
+ORD-00781,2025-10-30,4,236,125.37,Yoga Mat,Sports,North,Store,Kumar
+ORD-00782,2025-07-26,4,258,163.03,Running Shoes,Sports,South,Outlet,Mei Ling
+ORD-00783,2025-08-17,1,194,115.15,Running Shoes,Sports,North,Outlet,Kumar
+ORD-00784,2025-12-07,2,1386,784.55,Smart Watch,Electronics,South,Outlet,Kumar
+ORD-00785,2025-03-07,1,815,559.81,Office Chair,Furniture,North,Store,Mei Ling
+ORD-00786,2025-03-16,3,1406,1075.49,Air Fryer,Appliances,Central,Online,
+ORD-00787,2025-04-13,2,1505,1020.36,Smart Watch,Electronics,North,Store,Mei Ling
+ORD-00788,2025-07-11,4,575,498.6,Running Shoes,Sports,Central,Online,
+ORD-00789,2025-09-09,2,509,283.8,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00790,2025-08-14,2,111,58.87,Running Shoes,Sports,North,Store,Daniel
+ORD-00791,2025-10-21,3,1461,1245.33,Coffee Machine,Appliances,Central,Social Media,
+ORD-00792,2025-11-02,4,1893,1460.47,Smart Watch,Electronics,Central,Online,
+ORD-00793,2025-04-08,5,1977,1578.78,Wireless Headset,Electronics,Central,Social Media,
+ORD-00794,2025-12-04,1,2597,1636.33,Wireless Headset,Electronics,North,Store,Aisyah
+ORD-00795,2025-10-13,5,2757,2086.36,Smart Watch,Electronics,Central,Social Media,
+ORD-00796,2025-12-01,1,1535,1288.05,Wireless Headset,Electronics,Central,Online,
+ORD-00797,2025-12-13,4,2647,1990.68,Smart Watch,Electronics,Central,Social Media,
+ORD-00798,2025-11-04,1,2961,2566.06,Wireless Headset,Electronics,East,Social Media,
+ORD-00799,2025-09-06,3,258,224.67,Yoga Mat,Sports,Central,Social Media,
+ORD-00800,2025-06-15,2,200,123.08,Running Shoes,Sports,South,Outlet,Aisyah
+ORD-00801,2025-12-01,5,2070,1722.25,Wireless Headset,Electronics,Central,Social Media,
+ORD-00802,2025-01-30,5,1473,1194.59,Office Chair,Furniture,Central,Online,
+ORD-00803,2025-09-04,4,1845,1576.88,Office Chair,Furniture,Central,Online,
+ORD-00804,2025-04-16,4,1528,1019.95,Office Chair,Furniture,North,Store,Daniel
+ORD-00805,2025-02-20,4,1093,819.93,Office Chair,Furniture,East,Social Media,
+ORD-00806,2025-03-22,3,2623,2095.45,Smart Watch,Electronics,North,Online,
+ORD-00807,2025-05-13,3,499,441.82,Running Shoes,Sports,Central,Social Media,
+ORD-00808,2025-10-12,5,809,485.23,Air Fryer,Appliances,South,Outlet,Daniel
+ORD-00809,2025-05-18,5,1354,755.06,Coffee Machine,Appliances,North,Store,Daniel
+ORD-00810,2025-07-03,3,182,96.4,Yoga Mat,Sports,South,Outlet,Aisyah
+ORD-00811,2025-11-26,5,1450,1207.8,Smart Watch,Electronics,Central,Online,
+ORD-00812,2025-09-30,1,318,249.96,Running Shoes,Sports,Central,Online,
+ORD-00813,2025-12-06,1,2947,1577.76,Wireless Headset,Electronics,North,Store,Aisyah
+ORD-00814,2025-03-10,3,1327,818.15,Standing Desk,Furniture,North,Store,Aisyah
+ORD-00815,2025-02-03,1,1257,1034.96,Wireless Headset,Electronics,South,Social Media,
+ORD-00816,2025-09-19,4,211,111.12,Running Shoes,Sports,East,Store,Daniel
+ORD-00817,2025-02-22,3,463,395.41,Yoga Mat,Sports,Central,Online,
+ORD-00818,2025-07-24,5,359,292.19,Running Shoes,Sports,Central,Online,
+ORD-00819,2025-05-06,3,2325,1249.29,Wireless Headset,Electronics,East,Store,Mei Ling
+ORD-00820,2025-08-23,4,151,90.36,Yoga Mat,Sports,South,Outlet,Aisyah
+ORD-00821,2025-02-12,5,1010,840.98,Office Chair,Furniture,Central,Social Media,
+ORD-00822,2025-08-28,2,506,312.26,Running Shoes,Sports,North,Store,Daniel
+ORD-00823,2025-04-21,4,1843,1228.33,Office Chair,Furniture,North,Store,Mei Ling
+ORD-00824,2025-09-06,3,1979,1673.57,Smart Watch,Electronics,Central,Social Media,
+ORD-00825,2025-05-31,3,1605,1269.18,Standing Desk,Furniture,Central,Online,
+ORD-00826,2025-07-02,4,151,129.79,Yoga Mat,Sports,Central,Online,
+ORD-00827,2025-12-02,3,1558,1062.97,Smart Watch,Electronics,South,Outlet,Daniel
+ORD-00828,2025-04-05,5,1799,1556.1,Smart Watch,Electronics,Central,Online,
+ORD-00829,2025-01-08,1,1315,1135.42,Wireless Headset,Electronics,Central,Social Media,
+ORD-00830,2025-12-26,2,1722,1442.49,Smart Watch,Electronics,Central,Online,
+ORD-00831,2025-07-03,1,128,72.69,Yoga Mat,Sports,South,Outlet,Aisyah
+ORD-00832,2025-10-08,4,1981,1634.12,Wireless Headset,Electronics,Central,Social Media,
+ORD-00833,2025-07-14,3,272,142.26,Yoga Mat,Sports,North,Store,Kumar
+ORD-00834,2025-12-18,1,2146,1337.57,Wireless Headset,Electronics,North,Store,Kumar
+ORD-00835,2025-07-14,4,186,108.44,Running Shoes,Sports,North,Store,Daniel
+ORD-00836,2025-06-04,1,429,352.47,Yoga Mat,Sports,Central,Online,
+ORD-00837,2025-04-03,5,2529,2009.55,Smart Watch,Electronics,Central,Online,
+ORD-00838,2025-06-09,4,500,421.5,Running Shoes,Sports,Central,Social Media,
+ORD-00839,2025-03-02,2,2483,1674.49,Wireless Headset,Electronics,North,Store,Mei Ling
+ORD-00840,2025-05-02,3,1719,1428.56,Office Chair,Furniture,Central,Online,
+ORD-00841,2025-02-20,3,255,202.58,Running Shoes,Sports,Central,Online,
+ORD-00842,2025-10-04,3,520,268.38,Running Shoes,Sports,South,Store,Aisyah
+ORD-00843,2025-01-05,2,1169,960.36,Air Fryer,Appliances,Central,Online,
+ORD-00844,2025-04-02,4,1021,812.76,Office Chair,Furniture,Central,Online,
+ORD-00845,2025-06-19,5,445,398.56,Yoga Mat,Sports,Central,Social Media,
+ORD-00846,2025-11-13,5,1589,1049.28,Smart Watch,Electronics,South,Outlet,Kumar
+ORD-00847,2025-01-22,3,1265,950.74,Air Fryer,Appliances,Central,Social Media,
+ORD-00848,2025-11-22,2,1232,1105.57,Wireless Headset,Electronics,Central,Social Media,
+ORD-00849,2025-01-01,5,1246,710.6,Coffee Machine,Appliances,South,Outlet,Daniel
+ORD-00850,2025-05-13,2,373,313.29,Yoga Mat,Sports,Central,Social Media,
+ORD-00851,2025-08-21,3,285,167.73,Running Shoes,Sports,South,Outlet,Daniel
+ORD-00852,2025-01-12,3,1177,917.96,Office Chair,Furniture,Central,Social Media,
+ORD-00853,2025-12-12,4,2080,1733.06,Wireless Headset,Electronics,Central,Social Media,
+ORD-00854,2025-02-15,4,1582,931.92,Wireless Headset,Electronics,Central,Outlet,Kumar
+ORD-00855,2025-02-03,5,2790,2161.4,Smart Watch,Electronics,Central,Online,
+ORD-00856,2025-03-19,4,541,290.5,Running Shoes,Sports,North,Store,Aisyah
+ORD-00857,2025-08-06,5,152,91.91,Running Shoes,Sports,South,Outlet,Aisyah
+ORD-00858,2025-10-28,2,2474,1455.62,Wireless Headset,Electronics,East,Store,Mei Ling
+ORD-00859,2025-03-14,3,2562,1479.15,Smart Watch,Electronics,North,Store,Daniel
+ORD-00860,2025-10-09,4,246,217.1,Running Shoes,Sports,Central,Online,
+ORD-00861,2025-09-06,2,278,142.45,Running Shoes,Sports,South,Outlet,Daniel
+ORD-00862,2025-02-16,5,1839,1621.46,Standing Desk,Furniture,Central,Social Media,
+ORD-00863,2025-05-01,4,114,74.73,Running Shoes,Sports,South,Outlet,Kumar
+ORD-00864,2025-08-02,2,527,268.3,Yoga Mat,Sports,North,Store,Daniel
+ORD-00865,2025-08-27,3,572,509.39,Running Shoes,Sports,North,Online,
+ORD-00866,2025-02-25,1,1736,1317.39,Office Chair,Furniture,Central,Social Media,
+ORD-00867,2025-12-16,5,2650,2139.4,Smart Watch,Electronics,Central,Online,
+ORD-00868,2025-04-17,4,678,394.7,Air Fryer,Appliances,North,Outlet,Kumar
+ORD-00869,2025-11-15,1,1431,1145.24,Smart Watch,Electronics,Central,Online,
+ORD-00870,2025-02-17,1,2193,1825.63,Smart Watch,Electronics,Central,Social Media,
+ORD-00871,2025-03-02,5,2492,2167.11,Wireless Headset,Electronics,Central,Social Media,
+ORD-00872,2025-12-03,2,2012,1530.95,Wireless Headset,Electronics,Central,Online,
+ORD-00873,2025-01-26,2,534,419.78,Air Fryer,Appliances,Central,Online,
+ORD-00874,2025-10-19,5,1204,1036.59,Coffee Machine,Appliances,Central,Online,
+ORD-00875,2025-09-14,3,1275,1096.16,Wireless Headset,Electronics,East,Social Media,
+ORD-00876,2025-01-08,1,2114,1133.62,Smart Watch,Electronics,North,Store,Daniel
+ORD-00877,2025-04-23,5,1609,1339.15,Smart Watch,Electronics,Central,Online,
+ORD-00878,2025-12-21,5,2861,2203.78,Wireless Headset,Electronics,Central,Social Media,
+ORD-00879,2025-09-10,3,1057,562.06,Air Fryer,Appliances,South,Outlet,Aisyah
+ORD-00880,2025-06-29,5,588,459.37,Yoga Mat,Sports,Central,Online,
+ORD-00881,2025-07-26,3,506,424.21,Running Shoes,Sports,Central,Social Media,
+ORD-00882,2025-10-30,5,1112,886.54,Office Chair,Furniture,Central,Social Media,
+ORD-00883,2025-05-07,4,2689,2026.91,Smart Watch,Electronics,Central,Social Media,
+ORD-00884,2025-02-25,2,2358,2015.86,Wireless Headset,Electronics,Central,Social Media,
+ORD-00885,2025-08-02,3,412,271.61,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00886,2025-01-14,2,176,143.63,Running Shoes,Sports,Central,Online,
+ORD-00887,2025-01-28,4,1428,1219.66,Office Chair,Furniture,Central,Social Media,
+ORD-00888,2025-03-19,2,857,706.54,Office Chair,Furniture,Central,Online,
+ORD-00889,2025-08-04,1,528,297.65,Yoga Mat,Sports,North,Store,Mei Ling
+ORD-00890,2025-12-31,2,2391,1962.41,Wireless Headset,Electronics,Central,Social Media,
+ORD-00891,2025-06-03,3,336,185.04,Running Shoes,Sports,North,Store,Daniel
+ORD-00892,2025-01-14,1,1352,832.05,Wireless Headset,Electronics,South,Outlet,Mei Ling
+ORD-00893,2025-07-06,1,506,296.48,Yoga Mat,Sports,South,Outlet,Kumar
+ORD-00894,2025-11-08,3,2040,1612.25,Wireless Headset,Electronics,Central,Online,
+ORD-00895,2025-01-07,4,2071,1735.91,Wireless Headset,Electronics,South,Online,
+ORD-00896,2025-01-03,2,590,305.36,Yoga Mat,Sports,North,Store,Daniel
+ORD-00897,2025-04-21,2,1341,1062.73,Office Chair,Furniture,Central,Online,
+ORD-00898,2025-08-26,4,103,64.88,Yoga Mat,Sports,North,Store,Aisyah
+ORD-00899,2025-12-29,1,1820,1006.82,Wireless Headset,Electronics,North,Store,Mei Ling
+ORD-00900,2025-08-27,3,375,326.68,Yoga Mat,Sports,North,Social Media,
+ORD-00901,2025-10-01,2,1324,856.87,Standing Desk,Furniture,North,Store,Kumar
+ORD-00902,2025-10-21,5,2318,1181.82,Wireless Headset,Electronics,South,Outlet,Kumar
+ORD-00903,2025-08-15,1,198,134.77,Running Shoes,Sports,North,Store,Daniel
+ORD-00904,2025-01-15,2,367,209.67,Yoga Mat,Sports,North,Store,Daniel
+ORD-00905,2025-07-11,4,229,195.12,Yoga Mat,Sports,Central,Online,
+ORD-00906,2025-04-29,4,1974,1134.63,Standing Desk,Furniture,North,Store,Aisyah
+ORD-00907,2025-01-28,5,533,426.02,Yoga Mat,Sports,Central,Online,
+ORD-00908,2025-07-21,1,112,91.19,Running Shoes,Sports,Central,Online,
+ORD-00909,2025-02-08,4,598,467.03,Air Fryer,Appliances,Central,Online,
+ORD-00910,2025-09-30,4,1124,653.12,Office Chair,Furniture,South,Outlet,Kumar
+ORD-00911,2025-08-19,3,315,275.24,Running Shoes,Sports,Central,Social Media,
+ORD-00912,2025-03-27,1,2715,2094.55,Smart Watch,Electronics,Central,Social Media,
+ORD-00913,2025-05-06,3,1266,861.7,Office Chair,Furniture,East,Outlet,Kumar
+ORD-00914,2025-10-27,3,1394,781.33,Office Chair,Furniture,South,Outlet,Kumar
+ORD-00915,2025-01-25,5,1978,1097.28,Standing Desk,Furniture,South,Outlet,Daniel
+ORD-00916,2025-05-25,2,225,179.94,Running Shoes,Sports,Central,Social Media,
+ORD-00917,2025-01-13,1,1975,1553.41,Office Chair,Furniture,Central,Online,
+ORD-00918,2025-07-31,2,265,198.95,Yoga Mat,Sports,Central,Social Media,
+ORD-00919,2025-01-25,3,520,441.66,Air Fryer,Appliances,North,Online,
+ORD-00920,2025-03-09,3,211,168.15,Yoga Mat,Sports,Central,Online,
+ORD-00921,2025-03-08,3,1704,1430.81,Standing Desk,Furniture,Central,Social Media,
+ORD-00922,2025-08-21,4,345,193.69,Running Shoes,Sports,North,Store,Aisyah
+ORD-00923,2025-04-19,3,729,420.4,Air Fryer,Appliances,North,Store,Kumar
+ORD-00924,2025-05-26,1,1642,1388.16,Standing Desk,Furniture,Central,Online,
+ORD-00925,2025-04-21,4,708,615.22,Air Fryer,Appliances,Central,Online,
+ORD-00926,2025-08-16,3,369,313.89,Running Shoes,Sports,Central,Social Media,
+ORD-00927,2025-04-21,5,372,208.64,Running Shoes,Sports,East,Outlet,Mei Ling
+ORD-00928,2025-02-03,4,1001,565.79,Air Fryer,Appliances,North,Store,Aisyah
+ORD-00929,2025-04-21,3,346,191.72,Yoga Mat,Sports,South,Outlet,Daniel
+ORD-00930,2025-09-21,3,1358,714.93,Office Chair,Furniture,North,Store,Aisyah
+ORD-00931,2025-08-24,5,100,75.84,Yoga Mat,Sports,Central,Social Media,
+ORD-00932,2025-03-24,4,1533,1188.26,Smart Watch,Electronics,Central,Online,
+ORD-00933,2025-02-11,5,137,104.05,Running Shoes,Sports,Central,Online,
+ORD-00934,2025-04-11,3,1509,1281.85,Smart Watch,Electronics,Central,Social Media,
+ORD-00935,2025-01-06,5,1539,1021.16,Wireless Headset,Electronics,North,Store,Daniel
+ORD-00936,2025-06-29,5,212,163.37,Yoga Mat,Sports,Central,Online,
+ORD-00937,2025-10-09,2,631,535.79,Air Fryer,Appliances,Central,Online,
+ORD-00938,2025-11-16,1,2198,1099.72,Smart Watch,Electronics,South,Outlet,Kumar
+ORD-00939,2025-08-14,3,300,243.84,Yoga Mat,Sports,Central,Online,
+ORD-00940,2025-11-11,1,1464,1159.79,Wireless Headset,Electronics,Central,Social Media,
+ORD-00941,2025-12-31,2,2662,2023.49,Wireless Headset,Electronics,Central,Online,
+ORD-00942,2025-08-17,2,196,167.74,Yoga Mat,Sports,Central,Social Media,
+ORD-00943,2025-10-16,4,924,744.95,Standing Desk,Furniture,Central,Online,
+ORD-00944,2025-05-30,1,905,458.94,Office Chair,Furniture,North,Store,Aisyah
+ORD-00945,2025-10-04,2,155,96.86,Yoga Mat,Sports,South,Outlet,Kumar
+ORD-00946,2025-07-17,2,328,209.04,Yoga Mat,Sports,North,Store,Kumar
+ORD-00947,2025-03-11,5,1625,1093.96,Smart Watch,Electronics,North,Store,Mei Ling
+ORD-00948,2025-04-22,3,1665,1495.71,Office Chair,Furniture,Central,Social Media,
+ORD-00949,2025-01-04,2,969,855.6,Air Fryer,Appliances,Central,Online,
+ORD-00950,2025-12-16,1,1251,802.23,Smart Watch,Electronics,North,Store,Kumar
+ORD-00951,2025-11-27,1,2986,2032.95,Wireless Headset,Electronics,South,Outlet,Aisyah
+ORD-00952,2025-11-14,3,2039,1075.38,Wireless Headset,Electronics,South,Outlet,Aisyah
+ORD-00953,2025-12-16,3,2181,1248.96,Wireless Headset,Electronics,South,Outlet,Mei Ling
+ORD-00954,2025-04-05,5,1258,753.03,Standing Desk,Furniture,North,Store,Mei Ling
+ORD-00955,2025-06-01,1,130,104.12,Yoga Mat,Sports,East,Social Media,
+ORD-00956,2025-11-07,2,2982,2379.82,Smart Watch,Electronics,Central,Social Media,
+ORD-00957,2025-05-17,1,2430,1563.92,Wireless Headset,Electronics,North,Store,Daniel
+ORD-00958,2025-09-04,3,1768,1543.8,Smart Watch,Electronics,East,Social Media,
+ORD-00959,2025-08-31,5,484,380.93,Running Shoes,Sports,North,Social Media,
+ORD-00960,2025-01-31,5,2751,1641.16,Wireless Headset,Electronics,North,Store,Mei Ling
+ORD-00961,2025-02-09,2,1787,1227.6,Standing Desk,Furniture,North,Store,Kumar
+ORD-00962,2025-08-17,3,527,443.15,Running Shoes,Sports,Central,Social Media,
+ORD-00963,2025-02-05,4,951,790.93,Air Fryer,Appliances,East,Online,
+ORD-00964,2025-08-11,3,224,183.03,Yoga Mat,Sports,Central,Online,
+ORD-00965,2025-01-06,4,1599,1011.64,Office Chair,Furniture,North,Store,Aisyah
+ORD-00966,2025-11-18,5,2281,1329.15,Wireless Headset,Electronics,North,Store,Aisyah
+ORD-00967,2025-08-08,2,143,99.23,Yoga Mat,Sports,South,Outlet,Kumar
+ORD-00968,2025-03-16,1,154,89.08,Running Shoes,Sports,South,Outlet,Mei Ling
+ORD-00969,2025-01-04,1,2292,1756.37,Wireless Headset,Electronics,Central,Social Media,
+ORD-00970,2025-12-01,5,2377,1489.55,Wireless Headset,Electronics,North,Store,Mei Ling
+ORD-00971,2025-05-14,1,1368,1208.11,Wireless Headset,Electronics,Central,Social Media,
+ORD-00972,2025-04-28,2,1416,1128.63,Standing Desk,Furniture,Central,Social Media,
+ORD-00973,2025-04-04,2,725,480.59,Coffee Machine,Appliances,Central,Store,Kumar
+ORD-00974,2025-03-03,4,573,450.16,Coffee Machine,Appliances,Central,Social Media,
+ORD-00975,2025-07-13,2,140,116.05,Running Shoes,Sports,North,Social Media,
+ORD-00976,2025-12-01,3,1483,794.94,Smart Watch,Electronics,East,Store,Kumar
+ORD-00977,2025-07-22,4,188,119.71,Yoga Mat,Sports,North,Store,Aisyah
+ORD-00978,2025-01-26,2,1514,941.65,Standing Desk,Furniture,North,Store,Mei Ling
+ORD-00979,2025-06-22,3,528,321.6,Yoga Mat,Sports,South,Outlet,Kumar
+ORD-00980,2025-10-27,1,1856,930.24,Wireless Headset,Electronics,North,Store,Daniel
+ORD-00981,2025-05-13,1,2541,2258.72,Smart Watch,Electronics,Central,Social Media,
+ORD-00982,2025-11-22,5,2017,1296.81,Wireless Headset,Electronics,South,Outlet,Aisyah
+ORD-00983,2025-04-28,5,1494,1138.64,Office Chair,Furniture,Central,Online,
+ORD-00984,2025-11-20,1,1473,1237.18,Wireless Headset,Electronics,Central,Social Media,
+ORD-00985,2025-10-02,1,1272,722.2,Wireless Headset,Electronics,North,Store,Kumar
+ORD-00986,2025-07-31,2,207,105.55,Yoga Mat,Sports,North,Store,Aisyah
+ORD-00987,2025-08-13,3,118,90.04,Running Shoes,Sports,Central,Social Media,
+ORD-00988,2025-01-20,2,273,244.13,Yoga Mat,Sports,Central,Social Media,
+ORD-00989,2025-04-23,2,949,841.22,Air Fryer,Appliances,Central,Social Media,
+ORD-00990,2025-05-20,1,1787,1534.62,Smart Watch,Electronics,Central,Social Media,
+ORD-00991,2025-02-16,1,1766,1534.81,Wireless Headset,Electronics,Central,Online,
+ORD-00992,2025-01-01,5,1869,1235.45,Standing Desk,Furniture,North,Store,Daniel
+ORD-00993,2025-03-31,5,1060,615.2,Coffee Machine,Appliances,South,Outlet,Aisyah
+ORD-00994,2025-05-22,2,2423,1511.57,Wireless Headset,Electronics,North,Store,Daniel
+ORD-00995,2025-11-16,4,2559,1558.79,Wireless Headset,Electronics,North,Store,Aisyah
+ORD-00996,2025-02-07,2,998,752.52,Standing Desk,Furniture,Central,Social Media,
+ORD-00997,2025-10-20,4,935,601.23,Coffee Machine,Appliances,North,Store,Mei Ling
+ORD-00998,2025-05-19,3,1119,626.57,Air Fryer,Appliances,North,Store,Daniel
+ORD-00999,2025-12-22,2,1755,1495.44,Smart Watch,Electronics,Central,Social Media,
+ORD-01000,2025-11-29,4,1481,1110.96,Wireless Headset,Electronics,Central,Social Media,
